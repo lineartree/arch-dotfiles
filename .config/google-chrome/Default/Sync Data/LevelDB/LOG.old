@@ -1,0 +1,6 @@
+2023/03/05-21:24:53.622 2ad7 Reusing MANIFEST /home/lpy/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/03/05-21:24:53.622 2ad7 Recovering log #4
+2023/03/05-21:24:53.623 2ad7 Reusing old log /home/lpy/.config/google-chrome/Default/Sync Data/LevelDB/000004.log 
+2023/03/05-21:24:56.796 2ad7 Level-0 table #8: started
+2023/03/05-21:24:56.878 2ad7 Level-0 table #8: 84779 bytes OK
+2023/03/05-21:24:57.040 2ad7 Delete type=0 #4

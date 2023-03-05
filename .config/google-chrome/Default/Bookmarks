@@ -1,0 +1,3438 @@
+{
+   "checksum": "9df6ce2a9a48d147cfa335ac68dfde42",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13286281756000000",
+            "date_last_used": "0",
+            "guid": "2ebd125e-64d8-4d97-a554-c4cbda298ef0",
+            "id": "5",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13267854974000000",
+            "date_last_used": "0",
+            "guid": "908eb144-a1fd-4e0c-97d5-b53a088a3225",
+            "id": "6",
+            "name": "翻譯",
+            "type": "url",
+            "url": "https://translate.google.com.tw/?hl=zh-TW&tab=wT1"
+         }, {
+            "children": [ {
+               "date_added": "13268921253000000",
+               "date_last_used": "0",
+               "guid": "64f2f5b3-22d7-4730-a9d8-c0d50447ce50",
+               "id": "8",
+               "name": "LibreOffice 7.1 Community: Release Notes - The Document Foundation Wiki",
+               "type": "url",
+               "url": "https://wiki.documentfoundation.org/ReleaseNotes/7.1"
+            }, {
+               "date_added": "13241539944000000",
+               "date_last_used": "0",
+               "guid": "79805782-e509-4b4a-ac3d-b45e78c7ab28",
+               "id": "9",
+               "name": "鳥哥的 Linux 私房菜 -- 第零章、計算機概論",
+               "type": "url",
+               "url": "http://linux.vbird.org/linux_basic/0105computers.php#top"
+            }, {
+               "date_added": "13243018270000000",
+               "date_last_used": "0",
+               "guid": "72fbb5ce-b737-48ce-b250-57356c7bf7c1",
+               "id": "10",
+               "name": "Identify Songs Online - Music Recognition Online",
+               "type": "url",
+               "url": "https://www.acrcloud.com/identify-songs-music-recognition-online"
+            }, {
+               "date_added": "13245341807000000",
+               "date_last_used": "0",
+               "guid": "86196d8e-c974-45a9-b7c4-438b0dd2f922",
+               "id": "11",
+               "name": "使用 Microsoft 範本建立更多",
+               "type": "url",
+               "url": "https://templates.office.com/zh-tw"
+            }, {
+               "date_added": "13247678396000000",
+               "date_last_used": "0",
+               "guid": "74ddcd2c-6b74-4d6d-a4a9-86fc303d6d60",
+               "id": "12",
+               "name": "TomatoTimer",
+               "type": "url",
+               "url": "https://tomato-timer.com/"
+            }, {
+               "date_added": "13247755565000000",
+               "date_last_used": "0",
+               "guid": "a439b66a-e2a5-441c-a1c7-b93d005ae395",
+               "id": "13",
+               "name": "range test",
+               "type": "url",
+               "url": "https://bideyuanli.com/pp"
+            }, {
+               "date_added": "13247767493000000",
+               "date_last_used": "0",
+               "guid": "15d97486-de27-40c0-878e-729c8bd02063",
+               "id": "14",
+               "name": "對數律 (完整公式介紹) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=VdlfHl-PBLI"
+            }, {
+               "date_added": "13248100405000000",
+               "date_last_used": "0",
+               "guid": "965bbcaa-b68a-4fd7-81fa-450a55101c94",
+               "id": "15",
+               "name": "Mahjong Efficiency Trainer by Euophrys",
+               "type": "url",
+               "url": "https://euophrys.itch.io/mahjong-efficiency-trainer"
+            }, {
+               "date_added": "13238663174000000",
+               "date_last_used": "0",
+               "guid": "f43092dc-0de9-4a83-b806-869a3581ff3d",
+               "id": "16",
+               "name": "up",
+               "type": "url",
+               "url": "https://drive.google.com/drive/folders/0BxzEbGVPHGW-UFMzTUxnS0ViMFk"
+            }, {
+               "date_added": "13238663176000000",
+               "date_last_used": "0",
+               "guid": "96967554-336a-46e1-b627-e8f0c895f25f",
+               "id": "17",
+               "name": "down",
+               "type": "url",
+               "url": "https://drive.google.com/drive/folders/17_F-Y1CabuMVqresjbG4te8bg_N07aHD"
+            }, {
+               "date_added": "13251804434000000",
+               "date_last_used": "0",
+               "guid": "d271f5e5-382f-4f13-a515-a4ec28acea32",
+               "id": "18",
+               "name": "Just The Word",
+               "type": "url",
+               "url": "http://www.just-the-word.com/"
+            }, {
+               "date_added": "13252615985000000",
+               "date_last_used": "0",
+               "guid": "e7d1d6f4-26a8-495d-8450-ac0c5bcd9624",
+               "id": "19",
+               "name": "Google 學術搜尋",
+               "type": "url",
+               "url": "https://scholar.google.com.tw/?hl=zh-TW"
+            }, {
+               "date_added": "13256668172000000",
+               "date_last_used": "0",
+               "guid": "a9f6b651-2bd2-4dac-8550-0d5b3a8f2189",
+               "id": "20",
+               "name": "Definitions.net",
+               "type": "url",
+               "url": "https://www.definitions.net/"
+            }, {
+               "date_added": "13256914559000000",
+               "date_last_used": "0",
+               "guid": "a392215b-5b12-4da7-92e0-027594c931ee",
+               "id": "21",
+               "name": "黑ちゃん - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/channel/UCTJJ2QZ7UZvSrKDLieoPRBg/featured"
+            }, {
+               "date_added": "13256977581000000",
+               "date_last_used": "0",
+               "guid": "99929c44-614d-4bc6-be92-707c59e38d2b",
+               "id": "22",
+               "name": "Sci-Hub: removing barriers in the way of science",
+               "type": "url",
+               "url": "https://sci-hub.se/"
+            }, {
+               "date_added": "13257019437000000",
+               "date_last_used": "0",
+               "guid": "b22495a3-518c-4de1-92d7-1abed92da885",
+               "id": "23",
+               "name": "高中物理教育平台 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/channel/UC27X6diozCfWQHVj9MpppFg"
+            }, {
+               "date_added": "13258051945000000",
+               "date_last_used": "0",
+               "guid": "43a1d9eb-96b3-4247-9548-746a660f7e44",
+               "id": "24",
+               "name": "BBC Learning English - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/channel/UCHaHD477h-FeBbVh9Sh7syA"
+            }, {
+               "date_added": "13258478048000000",
+               "date_last_used": "0",
+               "guid": "1f3227db-85d9-41a1-9a0b-cb415d254490",
+               "id": "25",
+               "name": "Explore - LeetCode",
+               "type": "url",
+               "url": "https://leetcode.com/explore/"
+            }, {
+               "date_added": "13258548405000000",
+               "date_last_used": "0",
+               "guid": "6681f597-51b4-4718-8d3c-d23beb59e2c4",
+               "id": "26",
+               "name": "Intonation in English pronunciation | Learn English Today",
+               "type": "url",
+               "url": "https://www.learn-english-today.com/pronunciation-stress/intonation.html"
+            } ],
+            "date_added": "13321958582562737",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "73daa766-5487-458c-b016-ffb6e85aaff2",
+            "id": "7",
+            "name": "fav",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13239193682000000",
+               "date_last_used": "0",
+               "guid": "95012a85-e822-4257-8f47-862a33f61f02",
+               "id": "28",
+               "name": "typing",
+               "type": "url",
+               "url": "https://www.typingclub.com/sportal/"
+            }, {
+               "date_added": "13267700397000000",
+               "date_last_used": "0",
+               "guid": "f6f5f13a-3301-437b-859f-a1b38a7c35d7",
+               "id": "29",
+               "name": "10ff",
+               "type": "url",
+               "url": "https://10ff.net/"
+            }, {
+               "date_added": "13267700411000000",
+               "date_last_used": "0",
+               "guid": "337c73ce-a316-4715-9e5b-0c233bcab2e3",
+               "id": "30",
+               "name": "TypeRacer",
+               "type": "url",
+               "url": "https://play.typeracer.com/"
+            }, {
+               "date_added": "13267862816000000",
+               "date_last_used": "0",
+               "guid": "7abee678-8bd3-439a-ad96-23c53645291d",
+               "id": "31",
+               "name": "Multiplayer",
+               "type": "url",
+               "url": "https://www.keybr.com/multiplayer"
+            }, {
+               "date_added": "13267959039000000",
+               "date_last_used": "0",
+               "guid": "87e16ef7-3f90-4ec0-a9b3-32f939f8af9e",
+               "id": "32",
+               "name": "Advanced Typing Test English",
+               "type": "url",
+               "url": "https://10fastfingers.com/advanced-typing-test/english"
+            }, {
+               "date_added": "13257095458000000",
+               "date_last_used": "0",
+               "guid": "7e9853a8-26c6-4def-aa2c-1bb3c797dd0b",
+               "id": "33",
+               "name": "Monkeytype",
+               "type": "url",
+               "url": "https://monkeytype.com/"
+            } ],
+            "date_added": "13321958582640962",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "232ccdc1-e9df-4f4f-b322-c1e68ebec12a",
+            "id": "27",
+            "name": "type",
+            "type": "folder"
+         }, {
+            "date_added": "13239220997000000",
+            "date_last_used": "0",
+            "guid": "a5d5d9ee-bf26-4563-b9c8-6136761504b0",
+            "id": "34",
+            "name": "Keep",
+            "type": "url",
+            "url": "https://keep.google.com/u/0/"
+         }, {
+            "date_added": "13240933187000000",
+            "date_last_used": "0",
+            "guid": "6f8c8b0b-2bba-46f8-ae95-3ca06d6c325c",
+            "id": "35",
+            "name": "c",
+            "type": "url",
+            "url": "chrome://settings/clearBrowserData"
+         }, {
+            "date_added": "13252618364000000",
+            "date_last_used": "0",
+            "guid": "edc4df0e-6d7c-4905-a72f-bc453558fe9b",
+            "id": "36",
+            "name": "Wiki",
+            "type": "url",
+            "url": "https://www.wikipedia.org/"
+         }, {
+            "children": [ {
+               "date_added": "13253205734000000",
+               "date_last_used": "0",
+               "guid": "6f4db6b8-2c91-42aa-8fd7-9094df0084ca",
+               "id": "38",
+               "name": "flaticon",
+               "type": "url",
+               "url": "https://www.flaticon.com/"
+            }, {
+               "date_added": "13253206670000000",
+               "date_last_used": "0",
+               "guid": "41bffd7c-36d3-48b6-928e-46b313417717",
+               "id": "39",
+               "name": "Freepik",
+               "type": "url",
+               "url": "https://www.freepik.com/"
+            }, {
+               "date_added": "13253206806000000",
+               "date_last_used": "0",
+               "guid": "e7ab9a6a-96fa-405e-94e8-2cdf0388bf6c",
+               "id": "40",
+               "name": "Mixkit",
+               "type": "url",
+               "url": "https://mixkit.co/"
+            }, {
+               "date_added": "13253206873000000",
+               "date_last_used": "0",
+               "guid": "4d40525f-fd6a-4f38-8504-977594bfcb96",
+               "id": "41",
+               "name": "Iconscout",
+               "type": "url",
+               "url": "https://iconscout.com/"
+            }, {
+               "date_added": "13253206892000000",
+               "date_last_used": "0",
+               "guid": "7ed362b2-a402-4932-8672-62576f793f38",
+               "id": "42",
+               "name": "Unsplash",
+               "type": "url",
+               "url": "https://unsplash.com/"
+            }, {
+               "date_added": "13253207114000000",
+               "date_last_used": "0",
+               "guid": "a51d01ec-fb40-4118-86d4-72782574ee80",
+               "id": "43",
+               "name": "Pexels",
+               "type": "url",
+               "url": "https://www.pexels.com/zh-tw"
+            }, {
+               "date_added": "13253207448000000",
+               "date_last_used": "0",
+               "guid": "64f225fc-b41d-477b-a23b-a8acf2cea381",
+               "id": "44",
+               "name": "Pixabay",
+               "type": "url",
+               "url": "https://pixabay.com/"
+            }, {
+               "date_added": "13253207527000000",
+               "date_last_used": "0",
+               "guid": "f2b9efce-96ef-49ad-a266-c2c431a73b57",
+               "id": "45",
+               "name": "CC0 免費圖庫搜尋引擎",
+               "type": "url",
+               "url": "https://cc0.wfublog.com/"
+            }, {
+               "date_added": "13253293309000000",
+               "date_last_used": "0",
+               "guid": "10ad6d34-e4cd-4acb-b2d3-8aa42d478b41",
+               "id": "46",
+               "name": "Openclipart",
+               "type": "url",
+               "url": "https://openclipart.org/"
+            }, {
+               "date_added": "13259086841000000",
+               "date_last_used": "0",
+               "guid": "cb31fc05-cd7c-4c0a-ab85-0721862deeb8",
+               "id": "47",
+               "name": "Wunderstock",
+               "type": "url",
+               "url": "https://wunderstock.com/"
+            }, {
+               "date_added": "13267584111000000",
+               "date_last_used": "0",
+               "guid": "7dae7f22-aa79-4750-bff9-8358bea86532",
+               "id": "48",
+               "name": "ByteDance IconPark",
+               "type": "url",
+               "url": "https://iconpark.oceanengine.com/official"
+            }, {
+               "date_added": "13267871262000000",
+               "date_last_used": "0",
+               "guid": "343685f3-50f1-4120-ab69-a2afd4ece384",
+               "id": "49",
+               "name": "Iconduck",
+               "type": "url",
+               "url": "https://iconduck.com/"
+            }, {
+               "date_added": "13263129863000000",
+               "date_last_used": "0",
+               "guid": "73a5f116-300c-4ce2-843f-ff829cae3e19",
+               "id": "50",
+               "name": "Flickr",
+               "type": "url",
+               "url": "https://www.flickr.com/"
+            }, {
+               "date_added": "13269512803000000",
+               "date_last_used": "0",
+               "guid": "d5ead321-e68a-4c9b-a829-0867be12a61f",
+               "id": "51",
+               "name": "Canva",
+               "type": "url",
+               "url": "https://www.canva.com/"
+            }, {
+               "date_added": "13269512812000000",
+               "date_last_used": "0",
+               "guid": "5ce868b9-f7e0-460c-a348-6c5cd2685dac",
+               "id": "52",
+               "name": "FotoJet",
+               "type": "url",
+               "url": "https://www.fotojet.com/tw/"
+            }, {
+               "date_added": "13269519316000000",
+               "date_last_used": "0",
+               "guid": "43e335ae-24ad-4683-8b2f-906f0e190f10",
+               "id": "53",
+               "name": "Fotor",
+               "type": "url",
+               "url": "https://www.fotor.com/tw/"
+            } ],
+            "date_added": "13321958582643265",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "f5a72348-2873-4c66-9c54-a9037cc21444",
+            "id": "37",
+            "name": "src",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13263129863000000",
+               "date_last_used": "0",
+               "guid": "80914d51-100e-474e-96be-abcd88cae902",
+               "id": "55",
+               "name": "Color Palettes on Veranda",
+               "type": "url",
+               "url": "https://verandacolor.com/palettes"
+            }, {
+               "date_added": "13263129863000000",
+               "date_last_used": "0",
+               "guid": "4041b073-f28d-43c0-acf9-c25d5727d2af",
+               "id": "56",
+               "name": "Blender Beginner Tutorial",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=TPrnSACiTJ4&list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U"
+            }, {
+               "date_added": "13263129863000000",
+               "date_last_used": "0",
+               "guid": "191b342c-d28e-40d3-82bb-021bda077051",
+               "id": "57",
+               "name": "Google Ngram Viewer",
+               "type": "url",
+               "url": "https://books.google.com/ngrams"
+            }, {
+               "date_added": "13263129863000000",
+               "date_last_used": "0",
+               "guid": "cb6c104e-9941-480d-9a6d-caf3960161b2",
+               "id": "58",
+               "name": "VoiceTube",
+               "type": "url",
+               "url": "https://tw.voicetube.com/"
+            }, {
+               "date_added": "13263129863000000",
+               "date_last_used": "0",
+               "guid": "d8fc2645-54dd-4eef-a23f-a0d4592c1797",
+               "id": "59",
+               "name": "Ludwig • Find your English sentence",
+               "type": "url",
+               "url": "https://ludwig.guru/"
+            }, {
+               "date_added": "13263129863000000",
+               "date_last_used": "0",
+               "guid": "23894edf-9376-471f-bafe-8ba8cc7d5f4e",
+               "id": "60",
+               "name": "Pronuncian: American English Pronunciation",
+               "type": "url",
+               "url": "https://pronuncian.com/sounds"
+            }, {
+               "date_added": "13263129863000000",
+               "date_last_used": "0",
+               "guid": "9fc3f421-3bd9-4244-ad77-86c4c6bd75ef",
+               "id": "61",
+               "name": " 學英文 | English Learning",
+               "type": "url",
+               "url": "https://www.learning-english-onlines.com/"
+            }, {
+               "date_added": "13263129863000000",
+               "date_last_used": "0",
+               "guid": "ef3b676a-f8dc-40d6-92d1-88d7db149279",
+               "id": "62",
+               "name": "savesubs",
+               "type": "url",
+               "url": "https://savesubs.com/zh"
+            }, {
+               "date_added": "13263129863000000",
+               "date_last_used": "0",
+               "guid": "a0073291-b4b2-4610-b140-4e3f08a33be3",
+               "id": "63",
+               "name": "Kurzgesagt – In a Nutshell - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q"
+            }, {
+               "date_added": "13263129863000000",
+               "date_last_used": "0",
+               "guid": "0b6b85be-c633-43ab-88f9-7dc06125c230",
+               "id": "64",
+               "name": "LEMMiNO - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/channel/UCRcgy6GzDeccI7dkbbBna3Q"
+            }, {
+               "date_added": "13263129863000000",
+               "date_last_used": "0",
+               "guid": "707aac4e-b5ed-4fcc-a471-42cf4667f1ae",
+               "id": "65",
+               "name": "Seeker - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/user/DNewsChannel"
+            }, {
+               "date_added": "13263129863000000",
+               "date_last_used": "0",
+               "guid": "4a9c921f-d788-401a-ad94-9f79613ffe5c",
+               "id": "66",
+               "name": "HOME | sounds-of-english",
+               "type": "url",
+               "url": "https://www.soundsofenglish.org/"
+            }, {
+               "date_added": "13263129863000000",
+               "date_last_used": "0",
+               "guid": "5beeaf57-a0ed-4511-8ffe-aacd623e5482",
+               "id": "67",
+               "name": "Grammar Lessons Categories - ESL",
+               "type": "url",
+               "url": "https://www.eslcafe.com/resources/grammar-lessons/"
+            }, {
+               "date_added": "13263129863000000",
+               "date_last_used": "0",
+               "guid": "e2c37273-ee41-4287-aae1-145d0c658530",
+               "id": "68",
+               "name": "關於 AI 的 A 到 Z",
+               "type": "url",
+               "url": "https://atozofai.withgoogle.com/intl/zh-TW/"
+            }, {
+               "date_added": "13263129863000000",
+               "date_last_used": "0",
+               "guid": "c6b5b459-0dfe-4404-9cf3-6e75ed6a331c",
+               "id": "69",
+               "name": "$\\LaTeX$ 語法筆記 - HackMD",
+               "type": "url",
+               "url": "https://hackmd.io/@RintarouTW/LaTeX_%E8%AA%9E%E6%B3%95%E7%AD%86%E8%A8%98"
+            }, {
+               "date_added": "13263129863000000",
+               "date_last_used": "0",
+               "guid": "851ffeeb-56d9-4e66-b37d-4444f4d3b047",
+               "id": "70",
+               "name": "CrashCourse - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q"
+            }, {
+               "date_added": "13263129863000000",
+               "date_last_used": "0",
+               "guid": "cdcd1fdf-f0b4-4989-9110-e6be3e523906",
+               "id": "71",
+               "name": "My favorite Courses to Learn C++ in 2021— Best and FREE | by javinpaul | Javarevisited | Medium",
+               "type": "url",
+               "url": "https://medium.com/javarevisited/top-10-courses-to-learn-c-for-beginners-best-and-free-4afc262a544e"
+            }, {
+               "date_added": "13263129863000000",
+               "date_last_used": "0",
+               "guid": "a11edee9-00d7-43f4-babf-2775c5d8a1af",
+               "id": "72",
+               "name": "去找吧!我把程式自學資源秘笈都放在這裡了!! #超詳盡的免費網路教學資源統整 #這麼用心的整理不收藏嗎? - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+               "type": "url",
+               "url": "https://ithelp.ithome.com.tw/articles/10230188"
+            }, {
+               "date_added": "13263129863000000",
+               "date_last_used": "0",
+               "guid": "a7467ed6-2013-4b46-b99b-15389d906683",
+               "id": "73",
+               "name": "Color Hunt - Trendy Color Palettes",
+               "type": "url",
+               "url": "https://colorhunt.co/palette/14832"
+            }, {
+               "date_added": "13263129863000000",
+               "date_last_used": "0",
+               "guid": "976c8a79-725f-45ff-8f6a-7704d19ae332",
+               "id": "74",
+               "name": "處理 PPT 圖片的實用六招！ — BFA 簡報",
+               "type": "url",
+               "url": "https://www.bfa.com.tw/blog/pictureskills"
+            }, {
+               "date_added": "13263129863000000",
+               "date_last_used": "0",
+               "guid": "9e416e62-f76e-43b7-ba21-f9f32782ed86",
+               "id": "75",
+               "name": "大師級簡報是如何煉成的？ | PowerPoint 教學 #14 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=-hWsvuHlKwg&list=PL7enJ2-v6SPmqEd_I9zQmCd4b6VSJhYqy&index=14"
+            }, {
+               "date_added": "13263129863000000",
+               "date_last_used": "0",
+               "guid": "ba608721-e9da-412b-9b66-623bd4cd3028",
+               "id": "76",
+               "name": "PPT 如何做出吸眼球的封面圖片，背景填滿抓住台下聽眾目光 | 俞果3C | LINE TODAY",
+               "type": "url",
+               "url": "https://today.line.me/tw/v2/article/qGzJk9"
+            }, {
+               "date_added": "13263129863000000",
+               "date_last_used": "0",
+               "guid": "8e6e025e-210e-4597-8ae6-35e3869e87a1",
+               "id": "77",
+               "name": "#11999e hex color",
+               "type": "url",
+               "url": "https://www.colorhexa.com/11999e"
+            }, {
+               "date_added": "13263129863000000",
+               "date_last_used": "0",
+               "guid": "6f962fc9-c8fa-45e1-8b64-2b762997aacd",
+               "id": "78",
+               "name": "Hex Opacity Table",
+               "type": "url",
+               "url": "https://davidwalsh.name/hex-opacity"
+            }, {
+               "date_added": "13263129863000000",
+               "date_last_used": "0",
+               "guid": "d73f7602-c543-46c4-beea-8b4a6e62aaf2",
+               "id": "79",
+               "name": "在線圖像編輯器 - Pixlr.com圖像編輯",
+               "type": "url",
+               "url": "https://pixlr.com/tw/editor/"
+            }, {
+               "date_added": "13263129863000000",
+               "date_last_used": "0",
+               "guid": "db5b6701-7e08-4846-b478-dcd3903ad720",
+               "id": "80",
+               "name": "Noun Project: Free Icons & Stock Photos for Everything",
+               "type": "url",
+               "url": "https://thenounproject.com/"
+            }, {
+               "date_added": "13263129863000000",
+               "date_last_used": "0",
+               "guid": "3f9da1b3-c073-4131-bd09-ed64fdd2f494",
+               "id": "81",
+               "name": "Pixel Map Generator | amCharts",
+               "type": "url",
+               "url": "http://pixelmap.amcharts.com/"
+            }, {
+               "date_added": "13263182164000000",
+               "date_last_used": "0",
+               "guid": "092fb640-6550-43a9-9c0f-fa73609a4b01",
+               "id": "82",
+               "name": "Create a palette - Coolors",
+               "type": "url",
+               "url": "https://coolors.co/ff8360-e8e288-7dce82-3cdbd3-00fff5"
+            }, {
+               "date_added": "13267872398000000",
+               "date_last_used": "0",
+               "guid": "7c8aaa3e-be73-4d94-ac23-ed7436e816cd",
+               "id": "83",
+               "name": "Free Vector Illustrations for Commercial Use | Scale",
+               "type": "url",
+               "url": "https://2.flexiple.com/scale/all-illustrations"
+            }, {
+               "date_added": "13268459622000000",
+               "date_last_used": "0",
+               "guid": "55f3d8d2-ef1b-4f2d-b033-48df895581f6",
+               "id": "84",
+               "name": "Gramara",
+               "type": "url",
+               "url": "https://app.gramara.com/zh-hant"
+            }, {
+               "date_added": "13263123735000000",
+               "date_last_used": "0",
+               "guid": "7e4e049f-01de-4d50-adaf-8de1c4570f78",
+               "id": "85",
+               "name": "Learn Google Spreadsheets - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/c/LearnGoogleSpreadsheets/featured"
+            }, {
+               "date_added": "13263123926000000",
+               "date_last_used": "0",
+               "guid": "132dbcd5-5e9f-49e8-b4c7-249affb9c528",
+               "id": "86",
+               "name": "Download Google Slides Themes & Templates by Envato Elements",
+               "type": "url",
+               "url": "https://elements.envato.com/presentation-templates/compatible-with-google-slides"
+            }, {
+               "date_added": "13263196464000000",
+               "date_last_used": "0",
+               "guid": "33ecc29a-9652-4750-bf08-0fbdda5f5ff0",
+               "id": "87",
+               "name": "Google Sheets - Tutorial for Beginners - Part 1 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=wQfApf3eci8&list=PLv9Pf9aNgemt61gjKQaYZHjvZlVp4OANq"
+            } ],
+            "date_added": "13321958582644195",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "1c9aa844-275c-4df5-b8b8-af2b288d6dd5",
+            "id": "54",
+            "name": "ref",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13266229384000000",
+                  "date_last_used": "0",
+                  "guid": "c9b5eec8-d3d6-4a18-81b1-3544ccbcc18f",
+                  "id": "90",
+                  "name": "Python - Python 100天 - Github",
+                  "type": "url",
+                  "url": "https://github.com/jackfrued/Python-100-Days"
+               }, {
+                  "date_added": "13266229432000000",
+                  "date_last_used": "0",
+                  "guid": "f41fb150-aa6a-4daf-b022-ac86e6ea8f1d",
+                  "id": "91",
+                  "name": "Python - Python 3 教程 | 菜鸟教程",
+                  "type": "url",
+                  "url": "https://www.runoob.com/python3/python3-tutorial.html"
+               }, {
+                  "date_added": "13266229343000000",
+                  "date_last_used": "0",
+                  "guid": "82656f18-8fee-4ff0-8637-04c15de4b031",
+                  "id": "92",
+                  "name": "Python - 彭彭的課程",
+                  "type": "url",
+                  "url": "https://www.youtube.com/c/%E5%BD%AD%E5%BD%AD%E7%9A%84%E8%AA%B2%E7%A8%8B/featured"
+               }, {
+                  "date_added": "13266229412000000",
+                  "date_last_used": "0",
+                  "guid": "edad8b29-00e9-4d1f-9b6f-755670779abb",
+                  "id": "93",
+                  "name": "Python - 官網 — Python 3.7.9 說明文件",
+                  "type": "url",
+                  "url": "https://docs.python.org/zh-tw/3.7/tutorial/index.html"
+               }, {
+                  "date_added": "13263328669000000",
+                  "date_last_used": "0",
+                  "guid": "78b46bac-8fe9-4229-a9c3-615d5b8bc40e",
+                  "id": "94",
+                  "name": "Python - 初學者Python的應用實作",
+                  "type": "url",
+                  "url": "https://ithelp.ithome.com.tw/users/20111961/ironman/1795"
+               }, {
+                  "date_added": "13263328669000000",
+                  "date_last_used": "0",
+                  "guid": "00ead5e8-b6cb-4516-8ebf-6fb9268a84d4",
+                  "id": "95",
+                  "name": "Python - Python Cheatsheet",
+                  "type": "url",
+                  "url": "https://www.pythoncheatsheet.org/"
+               } ],
+               "date_added": "13321958582660687",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "73823bb1-4d1e-4cd8-a8d2-b254cc2acc70",
+               "id": "89",
+               "name": "python",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13263328669000000",
+                  "date_last_used": "0",
+                  "guid": "97ade15a-1e89-416f-9438-887566d6b714",
+                  "id": "97",
+                  "name": "C++ - Learn C++",
+                  "type": "url",
+                  "url": "https://www.learncpp.com/"
+               }, {
+                  "date_added": "13287943801000000",
+                  "date_last_used": "0",
+                  "guid": "fa1f6c7d-7a1c-4049-9cbf-f7f454782c2a",
+                  "id": "98",
+                  "name": "C++ - Qt 4 - Signals and Slots ",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=JtyCM4BTbYo&list=PL2D1942A4688E9D63&index=4"
+               }, {
+                  "date_added": "13287943882000000",
+                  "date_last_used": "0",
+                  "guid": "ff819f9d-73e6-4ad6-b360-228a72a9db82",
+                  "id": "99",
+                  "name": "C++ - Qt Game Tutorial 1 - Drawing the Player (rectangle) - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=8ntEQpg7gck&list=PLyb40eoxkelOa5xCB9fvGrkoBf8JzEwtV"
+               }, {
+                  "date_added": "13287951380000000",
+                  "date_last_used": "0",
+                  "guid": "72565b90-91bd-4020-af4a-17e90f8776e9",
+                  "id": "100",
+                  "name": "C++ - Buckys C++ Programming Tutorials - 57 - Abstract Classes and Pure virtual Functions - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=ndz3EHpFEZc&list=PLAE85DE8440AA6B83&index=57"
+               }, {
+                  "date_added": "13281324743000000",
+                  "date_last_used": "0",
+                  "guid": "787ad02d-5e62-4c4d-adb4-f809d235fe15",
+                  "id": "101",
+                  "name": "C++ - CPlusPlusThings: C++那些事",
+                  "type": "url",
+                  "url": "https://github.com/Light-City/CPlusPlusThings"
+               }, {
+                  "date_added": "13281364402000000",
+                  "date_last_used": "0",
+                  "guid": "82789c5f-6e1c-4b26-8c9a-f2cd70daa52e",
+                  "id": "102",
+                  "name": "C++ - Data Structures and Algorithms | College Placement Course | Lecture 1 - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ"
+               }, {
+                  "date_added": "13266229254000000",
+                  "date_last_used": "0",
+                  "guid": "7e26fe84-8548-4061-9920-881cf96376c3",
+                  "id": "103",
+                  "name": "C++ - NVitanovic",
+                  "type": "url",
+                  "url": "https://www.youtube.com/channel/UCqXrJmvJAvFnGyLGSBnk45g"
+               }, {
+                  "date_added": "13281103814000000",
+                  "date_last_used": "0",
+                  "guid": "f911fdea-7053-42d8-ad36-6265b0303df8",
+                  "id": "104",
+                  "name": "程式菜鳥自學C++資料結構演算法 :: 2021 iThome 鐵人賽",
+                  "type": "url",
+                  "url": "https://ithelp.ithome.com.tw/users/20140187/ironman/4017?page=2"
+               }, {
+                  "date_added": "13281324737000000",
+                  "date_last_used": "0",
+                  "guid": "200c0417-f228-4c4d-9505-40584ebc84ae",
+                  "id": "105",
+                  "name": "適合 C++ 新手學習的開源專案——在 GitHub 學程式設計 | IT人",
+                  "type": "url",
+                  "url": "https://iter01.com/550716.html"
+               } ],
+               "date_added": "13321958582661118",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "af0d2c83-bbb0-4085-8649-6d864511478f",
+               "id": "96",
+               "name": "C++",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13266046002000000",
+                  "date_last_used": "0",
+                  "guid": "e28b220c-cb23-419e-b34f-90adc3fb0334",
+                  "id": "107",
+                  "name": "JavaScript - foolish.com",
+                  "type": "url",
+                  "url": "https://www.fooish.com/javascript/basics.html"
+               }, {
+                  "date_added": "13263328669000000",
+                  "date_last_used": "0",
+                  "guid": "138ce7d7-d491-4efa-9187-8d7fd28ffd16",
+                  "id": "108",
+                  "name": "HTML Color Picker",
+                  "type": "url",
+                  "url": "https://www.w3schools.com/colors/colors_picker.asp"
+               }, {
+                  "date_added": "13266159454000000",
+                  "date_last_used": "0",
+                  "guid": "f55be79d-75c8-40c7-a698-7c24d0f25a87",
+                  "id": "109",
+                  "name": "CSS - 學習 CSS 版面配置",
+                  "type": "url",
+                  "url": "https://zh-tw.learnlayout.com/"
+               }, {
+                  "date_added": "13266046271000000",
+                  "date_last_used": "0",
+                  "guid": "2bee5afe-2c23-4c2f-95d7-2600f39ba627",
+                  "id": "110",
+                  "name": "JSFiddle - Code Playground",
+                  "type": "url",
+                  "url": "https://jsfiddle.net/"
+               }, {
+                  "date_added": "13266160918000000",
+                  "date_last_used": "0",
+                  "guid": "e34615e9-faf5-41b1-9f3e-ce7cc29c6a8b",
+                  "id": "111",
+                  "name": "CSS - OXXO.STUDIO",
+                  "type": "url",
+                  "url": "https://www.oxxostudio.tw/"
+               }, {
+                  "date_added": "13266231939000000",
+                  "date_last_used": "0",
+                  "guid": "0f13e722-bcd4-4995-8508-b64c687a49e9",
+                  "id": "112",
+                  "name": "HTML - Online Tutorials",
+                  "type": "url",
+                  "url": "https://www.youtube.com/c/OnlineTutorials4Designers/featured"
+               }, {
+                  "date_added": "13295689218000000",
+                  "date_last_used": "0",
+                  "guid": "d88940cf-abb7-49a9-9686-934c4065f002",
+                  "id": "113",
+                  "name": "FullStack - How to create a working blogging website with pure HTML, CSS and JS in 2021. - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=AWHGQfzfHxI"
+               }, {
+                  "date_added": "13295694345000000",
+                  "date_last_used": "0",
+                  "guid": "4ccca17c-a4de-495f-95d8-35b8ddd85a1b",
+                  "id": "114",
+                  "name": "FullStack - How to create a working blogging website with pure HTML, CSS and JS in 2021. - DEV Community",
+                  "type": "url",
+                  "url": "https://dev.to/kunaal438/fullstack-how-to-create-a-working-blogging-website-with-pure-html-css-and-js-in-2021-9di"
+               }, {
+                  "date_added": "13295694347000000",
+                  "date_last_used": "0",
+                  "guid": "9226bce8-5b36-4f21-b5b6-a2015ccb2e1e",
+                  "id": "115",
+                  "name": "HTML & CSS tutorial: How to build a blog | Scrimba",
+                  "type": "url",
+                  "url": "https://scrimba.com/learn/buildablog#"
+               }, {
+                  "date_added": "13295763969000000",
+                  "date_last_used": "0",
+                  "guid": "89699077-ce76-4eaf-9d4f-c9150c36f954",
+                  "id": "116",
+                  "name": "Advance Features - How to create a working blogging website with pure HTML, CSS and JS in 2021. - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=EK_emZ1_DGo&list=PLqm86YkewF6Sj_DbZ6WXqiLjw1tBZKNPt&index=2"
+               }, {
+                  "date_added": "13295765851000000",
+                  "date_last_used": "0",
+                  "guid": "e94b602a-e090-4056-ab81-2df7c6d0d902",
+                  "id": "117",
+                  "name": "How to make a responsive website for blogging using HTML, CSS and jQuery | Blog Website - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=dPSST_3jyJ0"
+               }, {
+                  "date_added": "13295777485000000",
+                  "date_last_used": "0",
+                  "guid": "71cc5d89-3f77-45a4-9b01-619a079afb0c",
+                  "id": "118",
+                  "name": "[node] Path Module | PJCHENder 未整理筆記",
+                  "type": "url",
+                  "url": "https://pjchender.dev/nodejs/node-path/"
+               }, {
+                  "date_added": "13295784753000000",
+                  "date_last_used": "0",
+                  "guid": "bea474c9-b25b-4a1d-956e-c55c45b14bcb",
+                  "id": "119",
+                  "name": "Designing Admin pages for blog website | How to design a responsive blog with HTML & CSS - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=kGzwvOFUewY&list=PL3pyLl-dgiqBSBsC5O5AQHN1UsUk-60nc&index=15"
+               }, {
+                  "date_added": "13296148529000000",
+                  "date_last_used": "0",
+                  "guid": "145d351e-85f6-4268-9e5c-0eabb378ca1b",
+                  "id": "120",
+                  "name": "W3Schools Online Web Tutorials",
+                  "type": "url",
+                  "url": "https://www.w3schools.com/"
+               }, {
+                  "date_added": "13296449218000000",
+                  "date_last_used": "0",
+                  "guid": "998a4296-fac5-4390-ac4a-cff28e800d1c",
+                  "id": "121",
+                  "name": "freeCodeCamp Navigation Bar Starter Code - JSFiddle - Code Playground",
+                  "type": "url",
+                  "url": "https://jsfiddle.net/szno3x5j/3/"
+               } ],
+               "date_added": "13321958582661685",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "fc3e3a2c-92cf-4c9f-9c62-09dd99b6acd4",
+               "id": "106",
+               "name": "HTML",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13294672337000000",
+                  "date_last_used": "0",
+                  "guid": "a6970699-2979-4f43-9404-71d836af4007",
+                  "id": "123",
+                  "name": "Building JavaScript Minecraft in 1 Hour [React & Three.js Tutorial] - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=ZnXKmODEFHA"
+               }, {
+                  "date_added": "13294654914000000",
+                  "date_last_used": "0",
+                  "guid": "323505fe-db99-4527-b60a-8ed1a79f7325",
+                  "id": "124",
+                  "name": "讓球碰到牆壁後反彈 - 遊戲開發 | MDN",
+                  "type": "url",
+                  "url": "https://developer.mozilla.org/zh-TW/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript/Bounce_off_the_walls"
+               } ],
+               "date_added": "13321958582662605",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "199e7491-b3a4-4a89-9703-23622df1de93",
+               "id": "122",
+               "name": "javascript",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13271159399000000",
+                  "date_last_used": "0",
+                  "guid": "1f8e9ff6-5d7e-40d7-b22e-919feb033738",
+                  "id": "126",
+                  "name": "VIM: usr_toc",
+                  "type": "url",
+                  "url": "https://chienweichih.github.io/vimcdoc/doc/usr_toc.html"
+               }, {
+                  "date_added": "13271528369000000",
+                  "date_last_used": "0",
+                  "guid": "7db95667-7df8-4998-b82c-290524aaecba",
+                  "id": "127",
+                  "name": "Vim",
+                  "type": "url",
+                  "url": "https://thevaluable.dev/tags/vim/"
+               }, {
+                  "date_added": "13271530476000000",
+                  "date_last_used": "0",
+                  "guid": "021712e3-03ac-4d92-b706-ce60db7fd500",
+                  "id": "128",
+                  "name": "vim 指令",
+                  "type": "url",
+                  "url": "https://silverwind1982.pixnet.net/blog/post/346179083"
+               }, {
+                  "date_added": "13274795471000000",
+                  "date_last_used": "0",
+                  "guid": "d8c839c2-dc59-4a12-88ca-57448e6d3d7f",
+                  "id": "129",
+                  "name": "Vim - Installation And Configuration",
+                  "type": "url",
+                  "url": "https://www.tutorialspoint.com/vim/vim_installation_and_configuration.htm"
+               }, {
+                  "date_added": "13274800650000000",
+                  "date_last_used": "0",
+                  "guid": "cb25b77e-3ba2-49b4-8c47-ad8ccb2078f9",
+                  "id": "130",
+                  "name": "vim | Linuxize",
+                  "type": "url",
+                  "url": "https://linuxize.com/tags/vim/"
+               }, {
+                  "date_added": "13275251091000000",
+                  "date_last_used": "0",
+                  "guid": "e9a1f426-58fa-4463-9912-30fa06b4bfc2",
+                  "id": "131",
+                  "name": "GitHub - junegunn/vim-plug: Minimalist Vim Plugin Manager",
+                  "type": "url",
+                  "url": "https://github.com/junegunn/vim-plug"
+               }, {
+                  "date_added": "13276405387000000",
+                  "date_last_used": "0",
+                  "guid": "ef193ffd-75f8-4621-842a-1188a08b1f88",
+                  "id": "132",
+                  "name": "VIM 中文用户手册: 目录",
+                  "type": "url",
+                  "url": "https://yianwillis.github.io/vimcdoc/doc/usr_toc.html"
+               }, {
+                  "date_added": "13276621345000000",
+                  "date_last_used": "0",
+                  "guid": "889b81c1-3129-4b19-bca5-57e0f5b56acb",
+                  "id": "133",
+                  "name": "VimGolf - real Vim ninjas count every keystroke!",
+                  "type": "url",
+                  "url": "http://www.vimgolf.com/"
+               }, {
+                  "date_added": "13278330365000000",
+                  "date_last_used": "0",
+                  "guid": "d47ea671-3653-4e19-92cd-74c4edf8a521",
+                  "id": "134",
+                  "name": "Vim Awesome - Plugins",
+                  "type": "url",
+                  "url": "https://vimawesome.com/"
+               }, {
+                  "date_added": "13280877932000000",
+                  "date_last_used": "0",
+                  "guid": "bc42581c-6930-4710-92b0-71d281dca8ae",
+                  "id": "135",
+                  "name": "GitHub - yangyangwithgnu/use_vim_as_ide: use vim as IDE",
+                  "type": "url",
+                  "url": "https://github.com/yangyangwithgnu/use_vim_as_ide"
+               }, {
+                  "date_added": "13284129549000000",
+                  "date_last_used": "0",
+                  "guid": "b37e8be4-976b-4f39-aa3a-c5c63c0f2dbf",
+                  "id": "136",
+                  "name": "vim 入坑指南（六）插件 UltiSnips | V 字君的 Vimpress",
+                  "type": "url",
+                  "url": "https://vimzijun.net/2016/10/30/ultisnip/"
+               }, {
+                  "date_added": "13284366088000000",
+                  "date_last_used": "0",
+                  "guid": "13282274-53f1-4e33-8b5f-4586f02fb813",
+                  "id": "137",
+                  "name": "Vim插件之vim-autoformat - 台部落",
+                  "type": "url",
+                  "url": "https://www.twblogs.net/a/5b8e7cd92b71771883458e66"
+               }, {
+                  "date_added": "13288122225000000",
+                  "date_last_used": "0",
+                  "guid": "ed6ac555-17e1-4484-b4f9-860fcdb90633",
+                  "id": "138",
+                  "name": "Neovim IDE from Scratch - Introduction (100% lua config) - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=ctH-a-1eUME&list=PLhoH5vyxr6Qq41NFL4GvhFp-WLd5xzIzZ"
+               }, {
+                  "date_added": "13288366057000000",
+                  "date_last_used": "0",
+                  "guid": "8442ce84-51d1-4b20-a1e1-01d20a228133",
+                  "id": "139",
+                  "name": "我的现代化Neovim配置 - 知乎",
+                  "type": "url",
+                  "url": "https://zhuanlan.zhihu.com/p/382092667"
+               }, {
+                  "date_added": "13296439179000000",
+                  "date_last_used": "0",
+                  "guid": "69c07c84-90f7-4ba1-9b39-292d9a1180e7",
+                  "id": "140",
+                  "name": "neovim - Spawning language server with cmd`diagnostic-languageserver`failed. The language server is either not installed, missing from PATH, or not executable - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/71544238/spawning-language-server-with-cmddiagnostic-languageserverfailed-the-language"
+               }, {
+                  "date_added": "13297013919000000",
+                  "date_last_used": "0",
+                  "guid": "fe34d99f-3d4c-4bc1-b026-3471a38fa4da",
+                  "id": "141",
+                  "name": "GitHub - ayamir/nvimdots: A well configured and structured Neovim.",
+                  "type": "url",
+                  "url": "https://github.com/ayamir/nvimdots"
+               } ],
+               "date_added": "13321958582662782",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "d48d6005-9cb6-4bcc-9a63-f2b2af86c671",
+               "id": "125",
+               "name": "vim",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13280622484000000",
+                  "date_last_used": "0",
+                  "guid": "4f2e95e6-3d92-4e4c-9440-1bf21d76c252",
+                  "id": "143",
+                  "name": "vmplayer - Google 搜尋",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=vmplayer&ei=a36FYaOvF9asoASRrpbQBA&start=10&sa=N&ved=2ahUKEwjjkIii84H0AhVWFogKHRGXBUoQ8NMDegQIARBP&biw=1920&bih=947"
+               }, {
+                  "date_added": "13280622484000000",
+                  "date_last_used": "0",
+                  "guid": "28f0b12c-1adb-4f39-a3ca-ef96fdde92e2",
+                  "id": "144",
+                  "name": "Ubuntu 20.04安裝VMware Workstation Player @ 軟體使用教學 :: 隨意窩 Xuite日誌",
+                  "type": "url",
+                  "url": "https://blog.xuite.net/yh96301/blog/367515625-Ubuntu+15.1%E5%AE%89%E8%A3%9DVMware+Workstation+Player+12.1"
+               }, {
+                  "date_added": "13280622484000000",
+                  "date_last_used": "0",
+                  "guid": "f51deb37-ab84-41eb-843c-bf2fad0df670",
+                  "id": "145",
+                  "name": "VMware Workstation 16 Player安裝Ubuntu 20.04 @ 軟體使用教學 :: 隨意窩 Xuite日誌",
+                  "type": "url",
+                  "url": "https://blog.xuite.net/yh96301/blog/341981056"
+               }, {
+                  "date_added": "13280622484000000",
+                  "date_last_used": "0",
+                  "guid": "96f08f86-21b6-41be-9f1f-f72b5d94afb5",
+                  "id": "146",
+                  "name": "VMware Workstation 16 Player安裝Windows 10 @ 軟體使用教學 :: 隨意窩 Xuite日誌",
+                  "type": "url",
+                  "url": "https://blog.xuite.net/yh96301/blog/332800397"
+               }, {
+                  "date_added": "13280622484000000",
+                  "date_last_used": "0",
+                  "guid": "94841e2f-24b5-43ca-9b0f-58e9198d898a",
+                  "id": "147",
+                  "name": "install kali - Google 搜尋",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=install+kali&oq=install+kali&aqs=chrome..69i57.3424j0j1&sourceid=chrome&ie=UTF-8"
+               }, {
+                  "date_added": "13280622484000000",
+                  "date_last_used": "0",
+                  "guid": "a4095684-3946-461b-8bd1-7e9cb4a5b0ca",
+                  "id": "148",
+                  "name": "如何安裝 Kali Linux？ | Kali Linux 安裝指南 | 埃德瑞卡",
+                  "type": "url",
+                  "url": "https://www.edureka.co/blog/how-to-install-kali-linux/"
+               }, {
+                  "date_added": "13280622484000000",
+                  "date_last_used": "0",
+                  "guid": "ae84b408-87a2-4f99-8089-f5ecd2c69402",
+                  "id": "149",
+                  "name": "Dual Booting Kali with Linux | Kali Linux Documentation",
+                  "type": "url",
+                  "url": "https://www.kali.org/docs/installation/dual-boot-kali-with-linux/"
+               }, {
+                  "date_added": "13280622484000000",
+                  "date_last_used": "0",
+                  "guid": "338b07b6-1bf8-40f9-ad76-bf6002c39724",
+                  "id": "150",
+                  "name": "Could not open /dev/vmmon: No such file or directory. Please make sure that the kernel module `vmmon' is loaded. - Google 搜尋",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=Could+not+open+%2Fdev%2Fvmmon%3A+No+such+file+or+directory.+Please+make+sure+that+the+kernel+module+%60vmmon%27+is+loaded.&oq=Could+not+open+%2Fdev%2Fvmmon%3A+No+such+file+or+directory.+Please+make+sure+that+the+kernel+module+%60vmmon%27+is+loaded.&aqs=chrome..69i57.1847j0j4&sourceid=chrome&ie=UTF-8"
+               }, {
+                  "date_added": "13280622484000000",
+                  "date_last_used": "0",
+                  "guid": "88adc262-d936-4f8d-822a-c848be6ab88d",
+                  "id": "151",
+                  "name": "\"Cannot open /dev/vmmon: No such file or directory\" error when powering on a VM (2146460)",
+                  "type": "url",
+                  "url": "https://kb.vmware.com/s/article/2146460"
+               }, {
+                  "date_added": "13280622484000000",
+                  "date_last_used": "0",
+                  "guid": "13b042a5-4517-4a19-95d2-0f4ae56d3738",
+                  "id": "152",
+                  "name": "kernel - VMWare 15 Error on Ubuntu 18.4 - Could not open /dev/vmmon: No such file or directory - Ask Ubuntu",
+                  "type": "url",
+                  "url": "https://askubuntu.com/questions/1096052/vmware-15-error-on-ubuntu-18-4-could-not-open-dev-vmmon-no-such-file-or-dire"
+               }, {
+                  "date_added": "13280636082000000",
+                  "date_last_used": "0",
+                  "guid": "7a481c0a-75a9-45eb-b7ec-d25c903bd0d7",
+                  "id": "153",
+                  "name": "Kali Linux滲透測試工具第三版｜花小錢做資安，你也是防駭高手(電子書) - 陳明照 - Google 圖書",
+                  "type": "url",
+                  "url": "https://books.google.com.tw/books?id=gTPLDwAAQBAJ&printsec=frontcover&hl=zh-TW#v=onepage&q&f=false"
+               } ],
+               "date_added": "13321958582663761",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "6fe7046f-70e6-4127-bbc4-74ee2d02d413",
+               "id": "142",
+               "name": "vmware",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13281389047000000",
+                  "date_last_used": "0",
+                  "guid": "b1b4e9a1-aace-4c32-b642-556a466de1bb",
+                  "id": "155",
+                  "name": "apcs 試題 - Google 搜尋",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=apcs+%E8%A9%A6%E9%A1%8C&oq=apcs+%E8%A9%A6%E9%A1%8C&aqs=chrome..69i57.3111j0j4&sourceid=chrome&ie=UTF-8"
+               }, {
+                  "date_added": "13281389047000000",
+                  "date_last_used": "0",
+                  "guid": "aa1eed73-dba6-4bbc-932c-e4f21d12a046",
+                  "id": "156",
+                  "name": "APCS 大學程式設計先修檢測 – Yui Huang 演算法學習筆記",
+                  "type": "url",
+                  "url": "https://yuihuang.com/apcs/"
+               }, {
+                  "date_added": "13281389047000000",
+                  "date_last_used": "0",
+                  "guid": "0ce3d430-621e-49f1-b174-0217699c1d41",
+                  "id": "157",
+                  "name": "【筆記】常用C++ STL：queue – Yui Huang 演算法學習筆記",
+                  "type": "url",
+                  "url": "https://yuihuang.com/cpp-stl-queue/"
+               }, {
+                  "date_added": "13281389047000000",
+                  "date_last_used": "0",
+                  "guid": "9db425f0-931f-4820-b8a4-d8f9428cd2b6",
+                  "id": "158",
+                  "name": "ap325_release - Google 雲端硬碟",
+                  "type": "url",
+                  "url": "https://drive.google.com/drive/folders/10hZCMHH0YgsfguVZCHU7EYiG8qJE5f-m"
+               }, {
+                  "date_added": "13281390382000000",
+                  "date_last_used": "0",
+                  "guid": "97849ab0-f666-4884-8580-3451b4e481ca",
+                  "id": "159",
+                  "name": "寫在上課之前 - HackMD",
+                  "type": "url",
+                  "url": "https://hackmd.io/@sa072686/APCS_HARD/https%3A%2F%2Fhackmd.io%2Fs%2FSknKMqIQ7"
+               }, {
+                  "date_added": "13281802969000000",
+                  "date_last_used": "0",
+                  "guid": "2e273096-e87a-418c-9b46-c5d040827081",
+                  "id": "160",
+                  "name": "【程式設計】第四講：Variables and Arrays #7 Single-dimensional arrays: The basics - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=SyvB9k4BblE&list=PLMHSr8fseBzUvwjKtR6pX0Vv9Q9H-V3lY&index=35"
+               }, {
+                  "date_added": "13282250930000000",
+                  "date_last_used": "0",
+                  "guid": "e30e6c65-4efa-4027-9407-ba04bc412da3",
+                  "id": "161",
+                  "name": "Ling-Chieh's Course Website",
+                  "type": "url",
+                  "url": "http://www.im.ntu.edu.tw/~lckung/course_web/#/course/Programming%20Design/materials"
+               }, {
+                  "date_added": "13283876044000000",
+                  "date_last_used": "0",
+                  "guid": "64f2bbef-9dfd-40ce-a65c-994a65baec7d",
+                  "id": "162",
+                  "name": "Vines' Note",
+                  "type": "url",
+                  "url": "https://vinesmsuic.github.io/"
+               }, {
+                  "date_added": "13284352618000000",
+                  "date_last_used": "0",
+                  "guid": "66e01db8-31d1-409b-be85-a729777484dd",
+                  "id": "163",
+                  "name": "GitHub - YiZheWangTw/VPythonTutorial: It's a simple tutorial of VPython.",
+                  "type": "url",
+                  "url": "https://github.com/YiZheWangTw/VPythonTutorial"
+               }, {
+                  "date_added": "13284367314000000",
+                  "date_last_used": "0",
+                  "guid": "bdfb4863-c2e8-4e75-9b35-1cb7e37305b3",
+                  "id": "164",
+                  "name": "Joy of Code",
+                  "type": "url",
+                  "url": "http://coding.nutc.edu.tw/student/lesson/D01/"
+               } ],
+               "date_added": "13321958582664776",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "1a757d73-07e2-4317-a2e2-2e131f8714e3",
+               "id": "154",
+               "name": "apcs",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13287960374000000",
+                  "date_last_used": "0",
+                  "guid": "026e23aa-8680-45fd-bfe7-8d4fcd5890a7",
+                  "id": "166",
+                  "name": "opengl - sdl2: Compiler throws \"Undefined Reference\" - Computer Graphics Stack Exchange",
+                  "type": "url",
+                  "url": "https://computergraphics.stackexchange.com/questions/8916/sdl2-compiler-throws-undefined-reference"
+               }, {
+                  "date_added": "13287970707000000",
+                  "date_last_used": "0",
+                  "guid": "6d290489-c75c-4349-a7e3-e2c01c1fa2ac",
+                  "id": "167",
+                  "name": "C++/OpenGL/SDL Game Engine Tutorials For An Absolute Beginner! : learnprogramming",
+                  "type": "url",
+                  "url": "https://www.reddit.com/r/learnprogramming/comments/2ebfn1/copenglsdl_game_engine_tutorials_for_an_absolute/"
+               }, {
+                  "date_added": "13288072973000000",
+                  "date_last_used": "0",
+                  "guid": "e85c5fd9-af99-4d77-a420-2b7ebdf92b5a",
+                  "id": "168",
+                  "name": "Advanced C++/Graphics Tutorial 0: Installing SDL! - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=FxCC9Ces1Yg&list=PLSPw4ASQYyymu3PfG9gxywSPghnSMiOAW&index=1"
+               }, {
+                  "date_added": "13288115941000000",
+                  "date_last_used": "0",
+                  "guid": "d85416c7-955c-4e46-93b8-abd944602d24",
+                  "id": "169",
+                  "name": "Lazy Foo' Productions - Beginning Game Programming v2.0",
+                  "type": "url",
+                  "url": "https://lazyfoo.net/tutorials/SDL/index.php#Hello%20SDL"
+               }, {
+                  "date_added": "13288270783000000",
+                  "date_last_used": "0",
+                  "guid": "f129e93e-0879-4727-b126-1b3162fa954c",
+                  "id": "170",
+                  "name": "Lesson 04 - Geometry Rendering",
+                  "type": "url",
+                  "url": "https://thenumbat.github.io/cpp-course/sdl2/04/04.html"
+               }, {
+                  "date_added": "13288317413000000",
+                  "date_last_used": "0",
+                  "guid": "dfc69550-ea11-4791-a306-38c2f98c80af",
+                  "id": "171",
+                  "name": "LearnOpenGL - Shaders",
+                  "type": "url",
+                  "url": "https://learnopengl.com/Getting-started/Shaders"
+               }, {
+                  "date_added": "13288317420000000",
+                  "date_last_used": "0",
+                  "guid": "ee4db8ac-8136-4a48-ba83-9da7db7a3141",
+                  "id": "172",
+                  "name": "OpenGL Programming/Modern OpenGL Introduction - Wikibooks, open books for an open world",
+                  "type": "url",
+                  "url": "https://en.wikibooks.org/wiki/OpenGL_Programming/Modern_OpenGL_Introduction"
+               }, {
+                  "date_added": "13288460133000000",
+                  "date_last_used": "0",
+                  "guid": "3ebe2696-4b87-47d4-8907-1b4be6b04a48",
+                  "id": "173",
+                  "name": "sdl make simple game - Google 搜尋",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=sdl+make+simple+game&ei=YjD9YdyQHIzi2roPgIGRUA&ved=0ahUKEwjcyancmeb1AhUMsVYBHYBABAoQ4dUDCA4&uact=5&oq=sdl+make+simple+game&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsAM6CAgAEAgQDRAeOgIIAEoECEEYAEoECEYYAFDkB1j0D2DCGmgBcAJ4AIABcogB9wOSAQM2LjGYAQCgAQHIAQrAAQE&sclient=gws-wiz"
+               }, {
+                  "date_added": "13288460148000000",
+                  "date_last_used": "0",
+                  "guid": "0a681da4-d846-4bf0-853c-35b40e39e772",
+                  "id": "174",
+                  "name": "Making A Snake Game with C and SDL2 | by Tony Mackay | Medium",
+                  "type": "url",
+                  "url": "https://0x544d.medium.com/making-a-snake-game-with-c-and-sdl-a6550955c357"
+               }, {
+                  "date_added": "13289484830000000",
+                  "date_last_used": "0",
+                  "guid": "3bfe627a-0b1d-44ff-9922-e1ec20f43663",
+                  "id": "175",
+                  "name": "你好，窗口 - LearnOpenGL CN",
+                  "type": "url",
+                  "url": "https://learnopengl-cn.github.io/01%20Getting%20started/03%20Hello%20Window/"
+               }, {
+                  "date_added": "13289662869000000",
+                  "date_last_used": "0",
+                  "guid": "cb817789-1643-4252-a49b-b631e66190c3",
+                  "id": "176",
+                  "name": "[Shader筆記] 連你阿罵都能看得懂的Shader介紹. 目錄： | by 詹閔翔 | Eric’s publication | Medium",
+                  "type": "url",
+                  "url": "https://medium.com/ericzhan-publication/shader%E7%AD%86%E8%A8%98-shader-development-using-unity-01-b1cde1f23adf"
+               }, {
+                  "date_added": "13289663035000000",
+                  "date_last_used": "0",
+                  "guid": "c38a0ab3-560e-4f4d-9ce8-cfdfa53c7a5a",
+                  "id": "177",
+                  "name": "Day 8 [OpenGL] OpenGL intro - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+                  "type": "url",
+                  "url": "https://ithelp.ithome.com.tw/articles/10241196"
+               }, {
+                  "date_added": "13289734016000000",
+                  "date_last_used": "0",
+                  "guid": "53f773ed-4b1e-4b38-a1e4-53ff9b79ea65",
+                  "id": "178",
+                  "name": "Graphics and Rendering",
+                  "type": "url",
+                  "url": "https://nicolbolas.github.io/oldtut/Basics/Intro%20Graphics%20and%20Rendering.html"
+               }, {
+                  "date_added": "13289771174000000",
+                  "date_last_used": "0",
+                  "guid": "f49ab798-b0e1-451b-acb9-593850b72734",
+                  "id": "179",
+                  "name": "Game from scratch with C++ and SFML (1) | by Mathilde E. | Achiev | Medium",
+                  "type": "url",
+                  "url": "https://medium.com/achiev/game-from-scratch-with-c-and-sfml-1-f17dcc2b6092"
+               }, {
+                  "date_added": "13297675628000000",
+                  "date_last_used": "0",
+                  "guid": "66857882-2df9-42ec-be62-247b24a432d1",
+                  "id": "180",
+                  "name": "GitHub - Zuzu-Typ/LearnOpenGL-Python: Python code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com",
+                  "type": "url",
+                  "url": "https://github.com/Zuzu-Typ/LearnOpenGL-Python"
+               } ],
+               "date_added": "13321958582665498",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "f9423335-25b6-42c4-a17c-dbae06428945",
+               "id": "165",
+               "name": "SDL2/OpenGL",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13288693242000000",
+                  "date_last_used": "0",
+                  "guid": "55c1563f-9198-4c58-8d86-d247971942ca",
+                  "id": "182",
+                  "name": "c++ - 用於加載PNG的SDL函數",
+                  "type": "url",
+                  "url": "https://gamedev.stackexchange.com/questions/59078/sdl-function-for-loading-pngs"
+               }, {
+                  "date_added": "13288693242000000",
+                  "date_last_used": "0",
+                  "guid": "a4c5e272-1078-4e81-a140-b7e2d476c9fc",
+                  "id": "183",
+                  "name": "sdl show text on screen - Google 搜尋",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=sdl+show+text+on+screen&oq=sdl+show+text+on+screen&aqs=chrome..69i57.4176j0j4&sourceid=chrome&ie=UTF-8"
+               }, {
+                  "date_added": "13288693242000000",
+                  "date_last_used": "0",
+                  "guid": "54229c0a-e1c6-4242-8858-2dfe2da6edab",
+                  "id": "184",
+                  "name": "c - 如何在 SDL2 中呈現文本？ - 堆棧溢出",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/22886500/how-to-render-text-in-sdl2"
+               }, {
+                  "date_added": "13288693242000000",
+                  "date_last_used": "0",
+                  "guid": "bc0beac7-bc40-4d38-ba00-214f4b4b3037",
+                  "id": "185",
+                  "name": "sdl - 如何使用 SDL2 有效地渲染字體和文本？ - 堆棧溢出",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/29064904/how-to-render-fonts-and-text-with-sdl2-efficiently"
+               }, {
+                  "date_added": "13288693242000000",
+                  "date_last_used": "0",
+                  "guid": "e8e596f9-03b8-47aa-9df2-027b9e6e25e5",
+                  "id": "186",
+                  "name": "cpp-cheat/ttf.c at e52ed4b838e2697d8f44ab5bef3e7a170705d48e · cirosantilli/cpp-cheat · GitHub",
+                  "type": "url",
+                  "url": "https://github.com/cirosantilli/cpp-cheat/blob/e52ed4b838e2697d8f44ab5bef3e7a170705d48e/sdl/ttf.c"
+               }, {
+                  "date_added": "13288693242000000",
+                  "date_last_used": "0",
+                  "guid": "5f20914c-83df-4952-84c0-3be3c09f0dd3",
+                  "id": "187",
+                  "name": "sdl text or opengl text - Google 搜尋",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=sdl+text+or+opengl+text&oq=sdl+text+or+opengl+text&aqs=chrome..69i57.6065j0j4&sourceid=chrome&ie=UTF-8"
+               }, {
+                  "date_added": "13288693242000000",
+                  "date_last_used": "0",
+                  "guid": "3e8a13cb-79b7-48c8-aceb-e1288b9b2bc1",
+                  "id": "188",
+                  "name": "text_test.cpp · GitHub",
+                  "type": "url",
+                  "url": "https://gist.github.com/olevegard/5a818701a8b67f40e7b5#file-text_test-cpp"
+               }, {
+                  "date_added": "13288693242000000",
+                  "date_last_used": "0",
+                  "guid": "ea3d1476-a23f-4f7b-8d63-b6f97dab7750",
+                  "id": "189",
+                  "name": "sdl ttf_openfont - Google 搜尋",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=sdl+ttf_openfont&ei=Ya4AYvb1JZK8hwPH8a5A&ved=0ahUKEwi2quSm7uz1AhUS3mEKHce4CwgQ4dUDCA4&uact=5&oq=sdl+ttf_openfont&gs_lcp=Cgdnd3Mtd2l6EAMyBAgAEB46BAgAEEM6CwgAEIAEELEDEIMBOggIABCABBCxAzoOCC4QgAQQsQMQxwEQowI6BQgAEIAEOgYIABAFEB46BggAEAgQHjoRCAAQ6gIQtAIQigMQtwMQ5QI6BwgAEIAEEAo6BAgAEAo6BAgAEA06BAgAEBM6BggAEB4QEzoICAAQChAeEBM6CAgAEAgQHhATSgQIQRgASgQIRhgAUABY6zhgojpoCHACeACAAVOIAZYJkgECMjCYAQCgAQGwAQLAAQE&sclient=gws-wiz"
+               }, {
+                  "date_added": "13288693242000000",
+                  "date_last_used": "0",
+                  "guid": "99737ec6-45cf-42a8-9bdf-8bd41d63d3b0",
+                  "id": "190",
+                  "name": "Why is conversion from string constant to 'char*' valid in C but invalid in C++ - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/20944784/why-is-conversion-from-string-constant-to-char-valid-in-c-but-invalid-in-c/20944858"
+               }, {
+                  "date_added": "13288693242000000",
+                  "date_last_used": "0",
+                  "guid": "2abdc051-fcbf-4373-9dee-45cdfbd16a6e",
+                  "id": "191",
+                  "name": "第7课 - True Type字体 · SDL中文教程",
+                  "type": "url",
+                  "url": "https://tjumyk.github.io/sdl-tutorial-cn/lessons/lesson07/index.html"
+               }, {
+                  "date_added": "13288693242000000",
+                  "date_last_used": "0",
+                  "guid": "2555ec74-1d5c-4778-ab39-d7c5a4002cfd",
+                  "id": "192",
+                  "name": "sdl font not found - Google 搜尋",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=sdl+font+not+found&oq=sdl+font+not+found&aqs=chrome..69i57.2537j0j1&sourceid=chrome&ie=UTF-8"
+               }, {
+                  "date_added": "13288693242000000",
+                  "date_last_used": "0",
+                  "guid": "9b2ad236-3f87-470f-9f07-3fd361a3c0a2",
+                  "id": "193",
+                  "name": "c++ - SDL - TTF - 字體未加載 - VoidCC",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/30062530/sdl-ttf-font-not-loading"
+               }, {
+                  "date_added": "13288693242000000",
+                  "date_last_used": "0",
+                  "guid": "15a692e5-0ba3-420f-b47f-184863884889",
+                  "id": "194",
+                  "name": "sdl could not open font - Google 搜尋",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=sdl+could+not+open+font&ei=18cAYsbmII7s-QbJyr44&ved=0ahUKEwiGruLKhu31AhUOdt4KHUmlDwcQ4dUDCA4&uact=5&oq=sdl+could+not+open+font&gs_lcp=Cgdnd3Mtd2l6EAMyBQghEKABOgcIABBHELADOgsIABCABBCxAxCDAToICAAQgAQQsQM6EQguEIAEELEDEIMBEMcBENEDOg4ILhCxAxCDARDHARCvAToOCC4QgAQQsQMQxwEQowI6BAgAEEM6BQgAEIAEOgcIABCxAxBDOg4ILhCxAxCDARDHARDRAzoECAAQCjoKCAAQsQMQgwEQCjoKCC4QxwEQrwEQCjoECC4QCjoECAAQEzoGCAAQHhATOggIABAIEB4QEzoGCAAQCBAeOgcIIRAKEKABSgQIQRgASgQIRhgAUMsXWMowYOExaAFwAngAgAFmiAGCDJIBBDIyLjGYAQCgAQHIAQLAAQE&sclient=gws-wiz"
+               }, {
+                  "date_added": "13288693242000000",
+                  "date_last_used": "0",
+                  "guid": "e87a7f8b-a331-4ff2-a36a-c8c81e258a54",
+                  "id": "195",
+                  "name": "argc argv - Google 搜尋",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=argc+argv&ei=DskAYqj4MIuB0wSFxIigCg&ved=0ahUKEwiot5jfh-31AhWLwJQKHQUiAqQQ4dUDCA4&uact=5&oq=argc+argv&gs_lcp=Cgdnd3Mtd2l6EAMyBAgAEEMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6EQguEIAEELEDEIMBEMcBEKMCOgsIABCABBCxAxCDAToOCC4QgAQQsQMQxwEQ0QM6EQguEIAEELEDEIMBEMcBENEDOggIABCABBCxAzoICC4QgAQQsQM6CwguEIAEELEDEIMBSgQIQRgASgQIRhgAUABYnwtg0gxoAHAAeACAAUCIAYcEkgEBOZgBAKABAcABAQ&sclient=gws-wiz"
+               }, {
+                  "date_added": "13288693242000000",
+                  "date_last_used": "0",
+                  "guid": "46eb1e91-e345-4856-b4c1-504f47e36a90",
+                  "id": "196",
+                  "name": "truetype - SDL + SDL_TTF: How do you render text in SDL+SDL_TTF? (C++) - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/3604889/sdl-sdl-ttf-how-do-you-render-text-in-sdlsdl-ttf-c"
+               }, {
+                  "date_added": "13288693242000000",
+                  "date_last_used": "0",
+                  "guid": "f0f7d832-c503-4c57-8a85-f22de5ef6c51",
+                  "id": "197",
+                  "name": "使用帶有SDL2和OpenGL的SDL TTF顯示文字 - C++ _程式人生",
+                  "type": "url",
+                  "url": "https://www.796t.com/post/N2FvdW8=.html"
+               } ],
+               "date_added": "13321958582667050",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "7c07dec5-1756-4eb6-b2ff-3102e95b8855",
+               "id": "181",
+               "name": "test",
+               "type": "folder"
+            }, {
+               "date_added": "13266229107000000",
+               "date_last_used": "0",
+               "guid": "9496f541-bcd6-448f-8ab6-5a737ea51ef4",
+               "id": "198",
+               "name": "HTML - Traversy Media",
+               "type": "url",
+               "url": "https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA"
+            }, {
+               "date_added": "13263328669000000",
+               "date_last_used": "0",
+               "guid": "6ece8233-0b5e-4806-875b-472304a2e04a",
+               "id": "199",
+               "name": "AI - Python Anaconda 環境安裝教學 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=7GiNNH1L4ZI&list=PL9M2r-IfKcfxJ6WVmdiEbWevDg2PkM8CM"
+            }, {
+               "date_added": "13263328669000000",
+               "date_last_used": "0",
+               "guid": "9151239b-6e48-4fd7-a36d-7713114b3757",
+               "id": "200",
+               "name": "Java -  Programming",
+               "type": "url",
+               "url": "https://java-programming.mooc.fi/"
+            }, {
+               "date_added": "13263328669000000",
+               "date_last_used": "0",
+               "guid": "bc9219a0-ca06-43a6-a3c4-e32eb61f7a82",
+               "id": "201",
+               "name": "Test - ZeroJudge",
+               "type": "url",
+               "url": "https://zerojudge.tw/"
+            }, {
+               "date_added": "13263328669000000",
+               "date_last_used": "0",
+               "guid": "c1774a16-d434-47fa-ab60-db28c30264af",
+               "id": "202",
+               "name": "學外語尚且知道要跟外國人練習會話; 學程式語言，怎能沒有練功平台?心原一馬盤點六個刷題網站 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+               "type": "url",
+               "url": "https://ithelp.ithome.com.tw/articles/10212411"
+            }, {
+               "date_added": "13263328669000000",
+               "date_last_used": "0",
+               "guid": "0788132c-8a90-4958-9671-a5764f9eca8d",
+               "id": "203",
+               "name": "Code.org",
+               "type": "url",
+               "url": "https://code.org/"
+            }, {
+               "date_added": "13263328669000000",
+               "date_last_used": "0",
+               "guid": "48b9226f-05d6-4aa3-bc2e-4a261d4aa750",
+               "id": "204",
+               "name": "免費學習編碼-忙人編碼課程",
+               "type": "url",
+               "url": "https://www.freecodecamp.org/learn/"
+            }, {
+               "date_added": "13264411522000000",
+               "date_last_used": "0",
+               "guid": "d5acd984-19bf-493e-8953-7a0a559c5cb5",
+               "id": "205",
+               "name": "Python Tutor - Visualize Python, Java, JavaScript, C, C++, Ruby code execution",
+               "type": "url",
+               "url": "http://pythontutor.com/visualize.html#mode=edit"
+            }, {
+               "date_added": "13264433478000000",
+               "date_last_used": "0",
+               "guid": "88d71c47-1cc2-482a-a6b4-d54815bbfa5a",
+               "id": "206",
+               "name": "GitHub - liujiming789/The-Art-of-Computer-Programming: 计算机程序设计的艺术",
+               "type": "url",
+               "url": "https://github.com/liujiming789/The-Art-of-Computer-Programming"
+            }, {
+               "date_added": "13264468602000000",
+               "date_last_used": "0",
+               "guid": "991a122a-f979-416b-bc04-e0f9b59611c9",
+               "id": "207",
+               "name": "演算法筆記",
+               "type": "url",
+               "url": "http://web.ntnu.edu.tw/~algo/"
+            }, {
+               "date_added": "13266191945000000",
+               "date_last_used": "0",
+               "guid": "ebad39e0-e9b4-4c14-a4f5-c81912e33854",
+               "id": "208",
+               "name": "SpeedCoder",
+               "type": "url",
+               "url": "https://www.speedcoder.net/"
+            }, {
+               "date_added": "13266224758000000",
+               "date_last_used": "0",
+               "guid": "53549445-395e-4bba-8fbd-3a82be7061e2",
+               "id": "209",
+               "name": "Titangene Blog",
+               "type": "url",
+               "url": "https://titangene.github.io/"
+            }, {
+               "date_added": "13266242190000000",
+               "date_last_used": "0",
+               "guid": "b6b3595f-2ca6-4a8c-8d3e-c313faabb889",
+               "id": "210",
+               "name": "Eagle - Organize all your reference images in one place",
+               "type": "url",
+               "url": "https://en.eagle.cool/"
+            }, {
+               "date_added": "13266246074000000",
+               "date_last_used": "0",
+               "guid": "44a8e6d7-4b25-4138-aa9d-23b867ad9a2d",
+               "id": "211",
+               "name": "Coding Fonts — JetBrains Mono on CSS-Tricks",
+               "type": "url",
+               "url": "https://coding-fonts.css-tricks.com/fonts/jetbrains-mono/?language=charmap"
+            }, {
+               "date_added": "13276510786000000",
+               "date_last_used": "0",
+               "guid": "424342e8-aeb2-404c-9341-73e79f8c8d5c",
+               "id": "212",
+               "name": "GitHub - billhhh/The-C-Book",
+               "type": "url",
+               "url": "https://github.com/billhhh/The-C-Book"
+            }, {
+               "date_added": "13278321925000000",
+               "date_last_used": "0",
+               "guid": "b4fe0805-1a50-4986-8d8a-13be51092d35",
+               "id": "213",
+               "name": "c++ faq - The Definitive C++ Book Guide and List - Stack Overflow",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list?rq=1"
+            }, {
+               "date_added": "13281103801000000",
+               "date_last_used": "0",
+               "guid": "2495b812-763c-421c-ab54-f53687ed9f3f",
+               "id": "214",
+               "name": "從零到一：那些演算法競賽會用到的基礎語法 目錄 | 從零開始的演算法競賽入門教學",
+               "type": "url",
+               "url": "https://emanlaicepsa.github.io/2020/10/21/0-index/"
+            }, {
+               "date_added": "13281103810000000",
+               "date_last_used": "0",
+               "guid": "48426a57-441e-4860-b635-8969e8e552df",
+               "id": "215",
+               "name": "[2021鐵人賽 Day13] General Skills 10 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+               "type": "url",
+               "url": "https://ithelp.ithome.com.tw/articles/10273812"
+            }, {
+               "date_added": "13281194607000000",
+               "date_last_used": "0",
+               "guid": "aec25894-3c8f-4923-a8ba-bf937bc59212",
+               "id": "216",
+               "name": "Deep Learning and the Game of Go",
+               "type": "url",
+               "url": "https://www.manning.com/books/deep-learning-and-the-game-of-go"
+            }, {
+               "date_added": "13281194628000000",
+               "date_last_used": "0",
+               "guid": "11b73bf9-dd7d-4055-bbf4-a3c7f5f64bd6",
+               "id": "217",
+               "name": "Chapter 4. Playing games with tree search - Deep Learning and the Game of Go",
+               "type": "url",
+               "url": "https://livebook.manning.com/book/deep-learning-and-the-game-of-go/chapter-4/56"
+            }, {
+               "date_added": "13281194644000000",
+               "date_last_used": "0",
+               "guid": "4611b42c-89e8-4fed-877f-ce16174177d2",
+               "id": "218",
+               "name": "deep_learning_and_the_game_of_go,《深度學習與圍棋遊戲》一書的代碼和其他材料,下載deep_learning_and_the_game_of_go的源碼_GitHub_幫酷",
+               "type": "url",
+               "url": "https://github.com/maxpumperla/deep_learning_and_the_game_of_go"
+            }, {
+               "date_added": "13281275246000000",
+               "date_last_used": "0",
+               "guid": "60f9038f-9e24-4c99-9142-4b81e0729a7b",
+               "id": "219",
+               "name": "My Fish shell workflow for coding - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=KKxhf50FIPI"
+            }, {
+               "date_added": "13281275254000000",
+               "date_last_used": "0",
+               "guid": "243c9bf4-6b49-4f59-9252-c8ba7238ae75",
+               "id": "220",
+               "name": "How to build a portfolio website using Next.js, Chakra UI, Framer Motion, and Three.js - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=bSMZgXzC9AA"
+            }, {
+               "date_added": "13281288097000000",
+               "date_last_used": "0",
+               "guid": "8c022ac7-427a-443f-8ab3-a22fd55a6e6b",
+               "id": "221",
+               "name": "My dev workflow using tmux and vim - a productive way to develop apps on your terminal - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=sSOfr2MtRU8"
+            }, {
+               "date_added": "13281324754000000",
+               "date_last_used": "0",
+               "guid": "18addcd5-e546-45b3-bb63-594b0162744d",
+               "id": "222",
+               "name": "LeetCode/11.Container With Most Water.md at master · Jack-Cherish/LeetCode · GitHub",
+               "type": "url",
+               "url": "https://github.com/Jack-Cherish/LeetCode/blob/master/Array/Medium/11.Container%20With%20Most%20Water.md"
+            }, {
+               "children": [ {
+                  "date_added": "13272221724000000",
+                  "date_last_used": "0",
+                  "guid": "4d875548-6c00-4a79-a893-93e062ede545",
+                  "id": "224",
+                  "name": "Git & GitHub 教學手冊 - Git 環境教學 | W3HexSchool",
+                  "type": "url",
+                  "url": "https://w3c.hexschool.com/git/cfdbd310"
+               }, {
+                  "date_added": "13272221730000000",
+                  "date_last_used": "0",
+                  "guid": "8c593f42-bac2-4999-8ce4-7f4ec64e65c8",
+                  "id": "225",
+                  "name": "Git 教學 - Git 書 - 為你自己學 Git | 高見龍",
+                  "type": "url",
+                  "url": "https://gitbook.tw/"
+               }, {
+                  "date_added": "13272707907000000",
+                  "date_last_used": "0",
+                  "guid": "13f9c3c9-8923-4cb6-a4d1-66ac4be0cb73",
+                  "id": "226",
+                  "name": "Git - Book",
+                  "type": "url",
+                  "url": "https://git-scm.com/book/zh/v2"
+               } ],
+               "date_added": "13321958582670285",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "1c0bda16-0e3c-4848-bc4e-af8f2361c795",
+               "id": "223",
+               "name": "git",
+               "type": "folder"
+            } ],
+            "date_added": "13321958582660002",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "1f9f3d2c-76a7-40e7-839e-d63131e95308",
+            "id": "88",
+            "name": "Programming",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13263500031000000",
+               "date_last_used": "0",
+               "guid": "c9d2fe46-2672-412d-bf3a-f4235180fac5",
+               "id": "228",
+               "name": "可汗学院公开课：统计学-[第01集]均值中位数众数-网易公开课",
+               "type": "url",
+               "url": "https://open.163.com/newview/movie/free?pid=VEV47V5V7&mid=ZEV47V71N"
+            }, {
+               "date_added": "13263500246000000",
+               "date_last_used": "0",
+               "guid": "fdd77ee0-276e-4578-a664-b1b1bd9b916e",
+               "id": "229",
+               "name": "可汗学院公开课：统计学-均值 中位数 众数-网易公开课",
+               "type": "url",
+               "url": "https://open.163.com/newview/movie/free?pid=M82IC6GQU&mid=M83J9IK60"
+            }, {
+               "date_added": "13263500451000000",
+               "date_last_used": "0",
+               "guid": "bd497a63-6bfe-465a-b614-1bcfbcfe3a38",
+               "id": "230",
+               "name": "可汗学院公开课：基础化学-1.元素与原子-网易公开课",
+               "type": "url",
+               "url": "https://open.163.com/newview/movie/free?pid=M7S6P0RL8&mid=M7S8STEGN"
+            }, {
+               "date_added": "13263799667000000",
+               "date_last_used": "0",
+               "guid": "e8b1053b-2b72-4c46-bb8f-c28f5ea419d9",
+               "id": "231",
+               "name": "4 Best Information Design Classes & Courses [2021 APRIL]",
+               "type": "url",
+               "url": "https://digitaldefynd.com/best-information-design-classes/"
+            }, {
+               "date_added": "13263830801000000",
+               "date_last_used": "0",
+               "guid": "fe32974b-6c7c-4688-9e1f-a687cb3ba2f5",
+               "id": "232",
+               "name": "遇到問題時你該如何思考？. 人生大多時候處理的問題都只是現象，真正問題的根源都沒被解決。 | by Icy 艾希 | 不可能工作室 | Medium",
+               "type": "url",
+               "url": "https://medium.com/%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E9%81%87%E5%88%B0%E5%95%8F%E9%A1%8C%E6%99%82%E4%BD%A0%E8%A9%B2%E5%A6%82%E4%BD%95%E6%80%9D%E8%80%83-be0213e4af35"
+            }, {
+               "date_added": "13263832212000000",
+               "date_last_used": "0",
+               "guid": "cc059315-1206-46bf-9a63-1cf5ffe98832",
+               "id": "233",
+               "name": "職場核心技能：如何培養「邏輯思維」與「批判性思考」能力（下）",
+               "type": "url",
+               "url": "https://blog.hahow.in/iron-vicky-logical-thinking-2/"
+            }, {
+               "date_added": "13263838256000000",
+               "date_last_used": "0",
+               "guid": "31116046-3102-4f9c-880e-9efdfd4aeed4",
+               "id": "234",
+               "name": "AbuHamza Art Studio - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/channel/UCgWBGu56lPZ7PJ2KLWXomNw"
+            }, {
+               "date_added": "13263838346000000",
+               "date_last_used": "0",
+               "guid": "f3ae1828-7a98-46ee-9cca-862921bcca94",
+               "id": "235",
+               "name": "Infographics for Business Number Options Vector Illustration",
+               "type": "url",
+               "url": "https://reviewsapex.com/infographics-business-number/"
+            }, {
+               "date_added": "13263839144000000",
+               "date_last_used": "0",
+               "guid": "80da6f77-8035-4f76-ba15-3d20be0ad763",
+               "id": "236",
+               "name": "Gravit Designer替代品和类似软件 — Altapps.net",
+               "type": "url",
+               "url": "https://zh.altapps.net/soft/gravit-io"
+            }, {
+               "date_added": "13263839231000000",
+               "date_last_used": "0",
+               "guid": "b635f148-f6c9-4b98-91d5-ce6afac7e9e7",
+               "id": "237",
+               "name": "Google Data Studio教學：3步驟學會做數據儀錶板！ | Re:從Google開始的雲端工作",
+               "type": "url",
+               "url": "https://digital-transformation.media/google-data-studio/data-studio-dashboard/"
+            }, {
+               "date_added": "13263865048000000",
+               "date_last_used": "0",
+               "guid": "b78184e2-7d22-4949-9423-93888e1bdbb7",
+               "id": "238",
+               "name": "快思慢想 - 維基百科，自由的百科全書",
+               "type": "url",
+               "url": "https://zh.wikipedia.org/wiki/%E5%BF%AB%E6%80%9D%E6%85%A2%E6%83%B3"
+            }, {
+               "date_added": "13263915314000000",
+               "date_last_used": "0",
+               "guid": "603345b9-748a-4741-8605-2dc9e32f05db",
+               "id": "239",
+               "name": "Attack on Titan Season 1 Episode 2 English Subbed",
+               "type": "url",
+               "url": "https://attackontitanonline.org/season-1-episode-2-eng-sub.html"
+            }, {
+               "date_added": "13264180284000000",
+               "date_last_used": "0",
+               "guid": "099b17bb-7bc9-4217-9b1a-154ebdd0611c",
+               "id": "240",
+               "name": "博客來-資料視覺化：製作充滿說服力的資訊圖表",
+               "type": "url",
+               "url": "https://www.books.com.tw/products/0010853444?loc=P_0005_044"
+            }, {
+               "date_added": "13264257182000000",
+               "date_last_used": "0",
+               "guid": "3f56fa0b-272a-47f6-8aba-74efd90cdc8d",
+               "id": "241",
+               "name": "博客來-Programming: Principles and Practice Using C++",
+               "type": "url",
+               "url": "https://www.books.com.tw/products/F013164304"
+            }, {
+               "date_added": "13264258342000000",
+               "date_last_used": "0",
+               "guid": "66104e95-361b-43c6-add7-5cf39a040510",
+               "id": "242",
+               "name": "Which book can be treated as the Bible of C++? - Quora",
+               "type": "url",
+               "url": "https://www.quora.com/Which-book-can-be-treated-as-the-Bible-of-C++"
+            }, {
+               "date_added": "13264465953000000",
+               "date_last_used": "0",
+               "guid": "72d70089-3686-4ab2-bbf1-c905182f2a61",
+               "id": "243",
+               "name": "呼吸運動的好處| Wim Hof方法",
+               "type": "url",
+               "url": "https://www.wimhofmethod.com/breathing-exercises"
+            }, {
+               "date_added": "13264465958000000",
+               "date_last_used": "0",
+               "guid": "9a5e03b3-7115-4857-8f04-1dbb9ee42eba",
+               "id": "244",
+               "name": "荷蘭冰人Wim Hof - 人人都可練成的幫助改善免疫力的冰人之道(WHM) | 方格子",
+               "type": "url",
+               "url": "https://vocus.cc/article/5e72358bfd89780001dfb4d2"
+            }, {
+               "date_added": "13265311631000000",
+               "date_last_used": "0",
+               "guid": "8578ebb9-6b72-4639-8232-b55ae6daf788",
+               "id": "245",
+               "name": "Online video downloader - Download videos and music for free",
+               "type": "url",
+               "url": "https://en.savefrom.net/20/"
+            }, {
+               "date_added": "13265571489000000",
+               "date_last_used": "0",
+               "guid": "82480e25-bd29-4da4-b0eb-294f0ee7dfe8",
+               "id": "246",
+               "name": "William Lin - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q"
+            }, {
+               "date_added": "13268918735000000",
+               "date_last_used": "0",
+               "guid": "4c5b128a-7a41-4746-b2a4-dc0d69e13abb",
+               "id": "247",
+               "name": "Ali Abdaal - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/channel/UCoOae5nYA7VqaXzerajD0lg"
+            }, {
+               "date_added": "13269545234000000",
+               "date_last_used": "0",
+               "guid": "2cdf53cb-416e-4fd4-ad27-8ab727fc5a24",
+               "id": "248",
+               "name": "Google spreadsheet - LemonWiki共筆",
+               "type": "url",
+               "url": "https://wiki.planetoid.info/index.php/Google_spreadsheet"
+            }, {
+               "date_added": "13270728482000000",
+               "date_last_used": "0",
+               "guid": "865b59ce-b00f-4024-9dce-1a38eb2130dc",
+               "id": "249",
+               "name": "Introduction | Ubuntu Basic Skill",
+               "type": "url",
+               "url": "https://samwhelp.github.io/book-ubuntu-basic-skill/book/index.html"
+            }, {
+               "date_added": "13270917531000000",
+               "date_last_used": "0",
+               "guid": "fdfb0381-27b4-41a9-aa9f-66c53fbb9eab",
+               "id": "250",
+               "name": "每個開發者都應該要會用的編輯器–Vim. Vim 是一個語言，不（只）是一個編輯器。 | by 施靜樺 | Medium",
+               "type": "url",
+               "url": "https://medium.com/@jinghua.shih/%E6%AF%8F%E5%80%8B%E9%96%8B%E7%99%BC%E8%80%85%E9%83%BD%E6%87%89%E8%A9%B2%E8%A6%81%E6%9C%83%E7%94%A8%E7%9A%84%E7%B7%A8%E8%BC%AF%E5%99%A8-vim-5f83349973a3"
+            }, {
+               "date_added": "13270918368000000",
+               "date_last_used": "0",
+               "guid": "7ecbe95c-fdf0-4126-8bc2-d3746d2d7dac",
+               "id": "251",
+               "name": "VimGenius",
+               "type": "url",
+               "url": "http://www.vimgenius.com/lessons/vim-intro"
+            }, {
+               "date_added": "13270918372000000",
+               "date_last_used": "0",
+               "guid": "b43f158d-3274-4e21-99b4-59b09fb7bbe8",
+               "id": "252",
+               "name": "Vim Tips Wiki | Fandom",
+               "type": "url",
+               "url": "https://vim.fandom.com/wiki/Vim_Tips_Wiki"
+            }, {
+               "date_added": "13271073024000000",
+               "date_last_used": "0",
+               "guid": "4f52cb75-d40f-4fd5-9e94-e9446ffd9eb2",
+               "id": "253",
+               "name": "[Mac / Linux] 讓你的終端介面變潮：個人化修改 Terminal / Bash 的 Prompt – OneJar 的隧道",
+               "type": "url",
+               "url": "https://www.onejar99.com/mac-linux-terminal-bash-prompt-html/"
+            }, {
+               "date_added": "13271569285000000",
+               "date_last_used": "0",
+               "guid": "0c528817-6d4e-4796-b9f3-8344dfc36c1d",
+               "id": "254",
+               "name": "目錄：演算法與資料結構",
+               "type": "url",
+               "url": "http://alrightchiu.github.io/SecondRound/mu-lu-yan-suan-fa-yu-zi-liao-jie-gou.html"
+            }, {
+               "date_added": "13271606574000000",
+               "date_last_used": "0",
+               "guid": "a867e259-5a14-4869-ad5d-0557986b284a",
+               "id": "255",
+               "name": "演算法筆記",
+               "type": "url",
+               "url": "https://web.ntnu.edu.tw/~algo/"
+            }, {
+               "date_added": "13271611916000000",
+               "date_last_used": "0",
+               "guid": "307581a4-df22-4d81-b621-3daeab74147f",
+               "id": "256",
+               "name": "C++ 貼士 | D棧 - Delft Stack",
+               "type": "url",
+               "url": "https://www.delftstack.com/zh-tw/howto/cpp/"
+            }, {
+               "date_added": "13271937763000000",
+               "date_last_used": "0",
+               "guid": "36ed0968-cab4-4ace-9171-5396fbb2d4b2",
+               "id": "257",
+               "name": "ALPHA Camp Blog｜掌握自學力與程式教學",
+               "type": "url",
+               "url": "https://tw.alphacamp.co/blog"
+            }, {
+               "date_added": "13272345612000000",
+               "date_last_used": "0",
+               "guid": "17663cd3-305c-49d6-88b7-07e7c9930134",
+               "id": "258",
+               "name": "Free Chemistry For Dummies Books: PDF Download",
+               "type": "url",
+               "url": "https://www.pdfdrive.com/chemistry-for-dummies-books.html"
+            }, {
+               "date_added": "13275494269000000",
+               "date_last_used": "0",
+               "guid": "5c843b05-ce0e-46d3-b2f1-e44e21234171",
+               "id": "259",
+               "name": "https://www.leungsir.net/cangjie3/typing13_js.html",
+               "type": "url",
+               "url": "https://www.leungsir.net/cangjie3/typing13_js.html"
+            }, {
+               "date_added": "13275494300000000",
+               "date_last_used": "0",
+               "guid": "ee2c63fd-071a-4eff-a717-c85ddc4a7e30",
+               "id": "260",
+               "name": "https://www.leungsir.net/cangjie3/cangjie7_fullscreen.html",
+               "type": "url",
+               "url": "https://www.leungsir.net/cangjie3/cangjie7_fullscreen.html"
+            }, {
+               "date_added": "13275495424000000",
+               "date_last_used": "0",
+               "guid": "9d273d34-2a6e-41d5-892c-d0d03b6727ae",
+               "id": "261",
+               "name": "\u003CB1D0A87CB3A134383038ADD3B160A5CEA6722D31303831303033A457B6C728A7F3A5BF35663564292E786C73>",
+               "type": "url",
+               "url": "https://language.moe.gov.tw/001/Upload/Files/site_content/download/mandr/%E6%95%99%E8%82%B2%E9%83%A84808%E5%80%8B%E5%B8%B8%E7%94%A8%E5%AD%97.pdf"
+            }, {
+               "date_added": "13275576409000000",
+               "date_last_used": "0",
+               "guid": "951c3e85-4d1a-416e-8ba9-36bfa3e1aaec",
+               "id": "262",
+               "name": "倉頡輸入法",
+               "type": "url",
+               "url": "https://www.hkcards.com/"
+            }, {
+               "date_added": "13277402681000000",
+               "date_last_used": "0",
+               "guid": "90b85ffb-bfbe-4ccc-8d10-5f1b197d5591",
+               "id": "263",
+               "name": "Download Instagram Videos - StorySaver.net",
+               "type": "url",
+               "url": "https://www.storysaver.net/download-instagram-videos"
+            }, {
+               "date_added": "13278297731000000",
+               "date_last_used": "0",
+               "guid": "f14088a8-e43f-4f1a-a2a5-dc57f122bd67",
+               "id": "264",
+               "name": "PDF Drive - Search and download PDF files for free.",
+               "type": "url",
+               "url": "https://www.pdfdrive.com/"
+            } ],
+            "date_added": "13321958582670466",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "db10eec5-704c-44b0-95cc-dfc8cdb35769",
+            "id": "227",
+            "name": "study",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13295706775000000",
+               "date_last_used": "0",
+               "guid": "23014439-f6b0-496b-a68c-8d590c97f7aa",
+               "id": "266",
+               "name": "Blog : Editor",
+               "type": "url",
+               "url": "http://localhost:3000/editor"
+            }, {
+               "date_added": "13268796303000000",
+               "date_last_used": "0",
+               "guid": "2036dab6-0e45-4618-9f2c-e619edf184b5",
+               "id": "267",
+               "name": "劍橋詞典",
+               "type": "url",
+               "url": "https://dictionary.cambridge.org/zht/"
+            }, {
+               "date_added": "13268796303000000",
+               "date_last_used": "0",
+               "guid": "e3b08cc5-85a4-4ed0-8ed6-7c32a156544d",
+               "id": "268",
+               "name": "Merriam-Webster",
+               "type": "url",
+               "url": "https://www.merriam-webster.com/"
+            }, {
+               "date_added": "13268796303000000",
+               "date_last_used": "0",
+               "guid": "f1d24e3c-a597-4333-b621-0369741e7089",
+               "id": "269",
+               "name": "Dictionary.com",
+               "type": "url",
+               "url": "https://www.dictionary.com/"
+            }, {
+               "date_added": "13290421035000000",
+               "date_last_used": "0",
+               "guid": "9c160a0e-6de6-4ae0-9650-1c5976ca5561",
+               "id": "270",
+               "name": "Synonyms and Antonyms of Words | Thesaurus.com",
+               "type": "url",
+               "url": "https://www.thesaurus.com/"
+            }, {
+               "date_added": "13268796303000000",
+               "date_last_used": "0",
+               "guid": "14424083-72bb-46ab-bb3c-700f3c935a07",
+               "id": "271",
+               "name": "WordReference.com",
+               "type": "url",
+               "url": "https://www.wordreference.com/"
+            }, {
+               "date_added": "13268796303000000",
+               "date_last_used": "0",
+               "guid": "7b7ef128-0a7e-4edc-b318-b0d434c2ebd9",
+               "id": "272",
+               "name": "查查綫上翻譯",
+               "type": "url",
+               "url": "https://tw.ichacha.net/"
+            }, {
+               "date_added": "13268796303000000",
+               "date_last_used": "0",
+               "guid": "ac35a00b-465a-48ac-a965-7a8632f1dd41",
+               "id": "273",
+               "name": "Longman",
+               "type": "url",
+               "url": "https://www.ldoceonline.com/"
+            }, {
+               "date_added": "13268796303000000",
+               "date_last_used": "0",
+               "guid": "896226e3-3cc1-43c0-99d9-f330005a91e2",
+               "id": "274",
+               "name": "Oxford Learner's Dictionaries | Find definitions, translations, and grammar explanations at Oxford Learner's Dictionaries",
+               "type": "url",
+               "url": "https://www.oxfordlearnersdictionaries.com/"
+            }, {
+               "date_added": "13268796303000000",
+               "date_last_used": "0",
+               "guid": "d1f9572d-dafb-418f-86d9-1e8bba733f50",
+               "id": "275",
+               "name": "Netspeak – Search for Words",
+               "type": "url",
+               "url": "https://netspeak.org/?lang=en"
+            }, {
+               "date_added": "13268796303000000",
+               "date_last_used": "0",
+               "guid": "8f38ecb3-baaa-4c80-b019-1e9b3e8fd50f",
+               "id": "276",
+               "name": "Corpus of Contemporary American English (COCA)",
+               "type": "url",
+               "url": "https://www.english-corpora.org/coca/"
+            }, {
+               "date_added": "13268796303000000",
+               "date_last_used": "0",
+               "guid": "ad1f46fb-23b8-49bf-9844-2219320bc92b",
+               "id": "277",
+               "name": "Macmillan Dictionary",
+               "type": "url",
+               "url": "https://www.macmillandictionary.com/"
+            }, {
+               "date_added": "13268796303000000",
+               "date_last_used": "0",
+               "guid": "07e41423-98c7-4981-be69-fd652ec7595f",
+               "id": "278",
+               "name": "Lexico",
+               "type": "url",
+               "url": "https://www.lexico.com/"
+            }, {
+               "date_added": "13268796303000000",
+               "date_last_used": "0",
+               "guid": "18cf9659-1af3-4e15-8eb7-8c0704c8f116",
+               "id": "279",
+               "name": "Linguee",
+               "type": "url",
+               "url": "https://www.linguee.com/"
+            }, {
+               "date_added": "13268796303000000",
+               "date_last_used": "0",
+               "guid": "de93b04f-7f98-44be-ac3c-ee1cc7f4ce3d",
+               "id": "280",
+               "name": "DeepL翻译",
+               "type": "url",
+               "url": "https://www.deepl.com/translator"
+            }, {
+               "date_added": "13268796303000000",
+               "date_last_used": "0",
+               "guid": "d284e682-bc9d-4846-94c5-d9a36142b33d",
+               "id": "281",
+               "name": "Free Grammar Checker Online – Ginger Software",
+               "type": "url",
+               "url": "https://www.gingersoftware.com/grammarcheck"
+            }, {
+               "date_added": "13268796303000000",
+               "date_last_used": "0",
+               "guid": "cb322bbd-3db3-47fd-bb30-2dd175d98928",
+               "id": "282",
+               "name": "ELLLO - English Listening Lesson Library Online",
+               "type": "url",
+               "url": "https://www.elllo.org/"
+            }, {
+               "date_added": "13268796303000000",
+               "date_last_used": "0",
+               "guid": "7ca672b7-bc02-4775-93f2-1319c1e51fae",
+               "id": "283",
+               "name": "智合英文學習網 - 智合英文學習網",
+               "type": "url",
+               "url": "https://iienglishlearning.blogspot.com/"
+            }, {
+               "date_added": "13268796303000000",
+               "date_last_used": "0",
+               "guid": "143e1e5d-4ae9-4e40-8c89-49351ed41d0f",
+               "id": "284",
+               "name": "The Free Dictionary",
+               "type": "url",
+               "url": "https://www.thefreedictionary.com/"
+            }, {
+               "date_added": "13268796303000000",
+               "date_last_used": "0",
+               "guid": "6acd165a-35e0-42aa-b559-44ba2e7f4dbb",
+               "id": "285",
+               "name": "Collocation Dictionary",
+               "type": "url",
+               "url": "https://www.freecollocation.com/"
+            }, {
+               "date_added": "13268796303000000",
+               "date_last_used": "0",
+               "guid": "cac1af57-cae2-4359-9397-29f078a02418",
+               "id": "286",
+               "name": "SkeLL",
+               "type": "url",
+               "url": "https://skell.sketchengine.eu/#home?lang=en"
+            }, {
+               "date_added": "13268796303000000",
+               "date_last_used": "0",
+               "guid": "4283b667-12f2-445b-946c-d473ef7246d6",
+               "id": "287",
+               "name": "Linggle 10^12- Language Reference Search Engines - NLPLab",
+               "type": "url",
+               "url": "https://linggle.com/"
+            }, {
+               "date_added": "13268796303000000",
+               "date_last_used": "0",
+               "guid": "468d6b13-f109-4cf3-84ec-ba063ba93e7b",
+               "id": "288",
+               "name": "Common Collocations | Vocabulary | EnglishClub",
+               "type": "url",
+               "url": "https://www.englishclub.com/vocabulary/collocations-common.htm"
+            }, {
+               "date_added": "13268796303000000",
+               "date_last_used": "0",
+               "guid": "3b9d3cbd-8085-4c9e-8cb4-9a9bc9603119",
+               "id": "289",
+               "name": "YouGlish",
+               "type": "url",
+               "url": "https://youglish.com/"
+            }, {
+               "date_added": "13268796303000000",
+               "date_last_used": "0",
+               "guid": "ff8eed41-a709-4415-8cb6-5ee4da563b69",
+               "id": "290",
+               "name": "Learn English Today",
+               "type": "url",
+               "url": "https://www.learn-english-today.com/"
+            }, {
+               "date_added": "13268796303000000",
+               "date_last_used": "0",
+               "guid": "5c22e6ea-3cc5-4cbe-8fdd-8b30c432c233",
+               "id": "291",
+               "name": "Paraphrasing Tool | QuillBot AI",
+               "type": "url",
+               "url": "https://quillbot.com/"
+            }, {
+               "date_added": "13269186198000000",
+               "date_last_used": "0",
+               "guid": "642329c5-19e7-44ad-a7c7-2d904f97c47f",
+               "id": "292",
+               "name": "中英物語是中翻英網站，專門翻譯難翻譯成英文的中文，如妄想、宿醉、速度球等！ChToEn Helps You Translate Hard-to-Translate-to-English Chinese Terms to English Terms!",
+               "type": "url",
+               "url": "https://www.chtoen.com/"
+            }, {
+               "date_added": "13272446661000000",
+               "date_last_used": "0",
+               "guid": "27603fed-9a56-4fe6-9aba-cce65850d178",
+               "id": "293",
+               "name": "English Grammar in Use - Fifth Edition",
+               "type": "url",
+               "url": "http://xn--webducation-dbb.com/wp-content/uploads/2019/03/Raymond-Murphy-English-Grammar-in-Use-Cambridge-University-Press-2019.pdf"
+            } ],
+            "date_added": "13321958582674249",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "070d1342-d459-44c0-b443-3ded39b8260e",
+            "id": "265",
+            "name": "english",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13274695793000000",
+               "date_last_used": "0",
+               "guid": "063eaf0b-0576-498c-9d4e-7f5819c2633a",
+               "id": "295",
+               "name": "libreoffice writer tutorial - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/results?search_query=libreoffice+writer+tutorial"
+            }, {
+               "date_added": "13274695793000000",
+               "date_last_used": "0",
+               "guid": "e2f8ff86-74a7-499b-9a9a-c29caf83729f",
+               "id": "296",
+               "name": "Libre Office Writer Beginners Tutorial - Word Processing Tutorial - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=JIBWOjeiptA"
+            }, {
+               "date_added": "13274695793000000",
+               "date_last_used": "0",
+               "guid": "d9436634-9c7b-4aed-8eab-f2a92501e4f8",
+               "id": "297",
+               "name": "LibreOffice Writer 7 Part 1 - Styling Documents - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=0l62UUT7Yxo"
+            }, {
+               "date_added": "13274695793000000",
+               "date_last_used": "0",
+               "guid": "c376f8da-503b-495a-a26f-ee91bbe89b80",
+               "id": "298",
+               "name": "Google 翻譯",
+               "type": "url",
+               "url": "https://translate.google.com.tw/?hl=zh-TW&tab=wT1&sl=auto&tl=zh-TW&text=orientation&op=translate"
+            }, {
+               "date_added": "13274695793000000",
+               "date_last_used": "0",
+               "guid": "2e6cb980-dc20-473d-abee-e44d77654767",
+               "id": "299",
+               "name": "linux theme - Google Search",
+               "type": "url",
+               "url": "https://www.google.com/search?q=linux+theme&hl=en&source=hp&ei=MCkrYb0lrd2YBcb3j7AL&iflsig=ALs-wAMAAAAAYSs3QMRksyDePPxaflVFUWWUXCuAFgxR&oq=linux+theme&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOgQIABBDOgUIABCRAjoLCC4QgAQQxwEQ0QM6CwguEIAEEMcBEK8BOgUILhCABDoLCC4QgAQQxwEQowI6CgguEMcBENEDEEM6BAguEENQiQVY8xNgihVoAHAAeACAAfkCiAHPB5IBBzYuMS4wLjGYAQCgAQE&sclient=gws-wiz&ved=0ahUKEwi9_eKpzdXyAhWtLqYKHcb7A7YQ4dUDCAc&uact=5"
+            }, {
+               "date_added": "13274695793000000",
+               "date_last_used": "0",
+               "guid": "266c024a-90fc-4c5f-ad9c-a631bdcd83c0",
+               "id": "300",
+               "name": "18 Best GNOME Themes for Ubuntu and other Distros [2021]",
+               "type": "url",
+               "url": "https://itsfoss.com/best-gtk-themes/"
+            }, {
+               "date_added": "13274695793000000",
+               "date_last_used": "0",
+               "guid": "d0600cd8-818d-4146-bd9c-0f55cb8e1fec",
+               "id": "301",
+               "name": "GitHub - vinceliuice/WhiteSur-gtk-theme at 2021-07-27",
+               "type": "url",
+               "url": "https://github.com/vinceliuice/WhiteSur-gtk-theme/tree/2021-07-27"
+            }, {
+               "date_added": "13274695793000000",
+               "date_last_used": "0",
+               "guid": "cd5202ec-a52f-4409-9418-b3bbea3a20c7",
+               "id": "302",
+               "name": "install whitesur theme on linux - Google 搜尋",
+               "type": "url",
+               "url": "https://www.google.com/search?q=install+whitesur+theme+on+linux&oq=install+whitesur+theme+on+linux&aqs=chrome..69i57.5602j0j1&sourceid=chrome&ie=UTF-8"
+            }, {
+               "date_added": "13274695793000000",
+               "date_last_used": "0",
+               "guid": "8be01b66-642b-40e2-aa17-ca14dbba75ec",
+               "id": "303",
+               "name": "如何讓 Ubuntu 看起來像 macOS Big Sur | 混搭小貼士",
+               "type": "url",
+               "url": "https://mashtips.com/make-ubuntu-look-like-macos-big-sur/"
+            }, {
+               "date_added": "13274695793000000",
+               "date_last_used": "0",
+               "guid": "80c3e49c-24d2-4a46-a395-8e8ad9f049b4",
+               "id": "304",
+               "name": "linux shell user-theme extension is not enabled - Google 搜尋",
+               "type": "url",
+               "url": "https://www.google.com/search?q=linux+shell+user-theme+extension+is+not+enabled&ei=iSsrYez3MI2UmAWEqYnwBA&oq=linux+shell+user-theme+extension+is+not+enabled&gs_lcp=Cgdnd3Mtd2l6EAM6BAgAEEM6CAgAEIAEELEDOgsIABCABBCxAxCDAToICAAQsQMQgwE6BwgAELEDEEM6CggAELEDEIMBEEM6BQgAEIAEOgQIABATOgYIABAeEBM6BAgAEA06BAgAEB46BggAEA0QHjoGCAAQCBAeOgUIIRCgAToKCAAQCBANEB4QEzoICAAQCBAeEBM6CAgAEAgQDRAeOgcIIRAKEKABSgQIQRgAUM2brQFY0IivAWDHia8BaAVwAHgAgAGHAYgB8BySAQQ2Mi4xmAEAoAEBwAEB&sclient=gws-wiz&ved=0ahUKEwis4N3Iz9XyAhUNCqYKHYRUAk4Q4dUDCA4&uact=5"
+            }, {
+               "date_added": "13274695793000000",
+               "date_last_used": "0",
+               "guid": "3b7c2e51-be6a-4558-b9aa-746c2aea4086",
+               "id": "305",
+               "name": "How to Solve ‘shell user theme extension not enabled’ Error on Ubuntu – SoftTuts",
+               "type": "url",
+               "url": "https://softtuts.com/how-to-solve-shell-user-theme-extension-not-enabled-error-in-ubuntu/"
+            }, {
+               "date_added": "13274695793000000",
+               "date_last_used": "0",
+               "guid": "1c528d62-78b0-4e39-b975-8ab1f3891156",
+               "id": "306",
+               "name": "在 Ubuntu 上安裝 Dash to Dock – GNOME Shell 擴展",
+               "type": "url",
+               "url": "https://linuxhint.com/dash-to-dock-gnome-shell-extension-dock/"
+            }, {
+               "date_added": "13274695793000000",
+               "date_last_used": "0",
+               "guid": "bce58217-b2e7-4a66-ad6c-fb84adc3b6b9",
+               "id": "307",
+               "name": "n error occurred during the signature verification. The repository is not updated and the previous index files will be used. GPG error: http://repository.spotify.com stable InRelease: The following signatures couldn't be verified because the public key is not available - Google 搜尋",
+               "type": "url",
+               "url": "https://www.google.com/search?q=n+error+occurred+during+the+signature+verification.+The+repository+is+not+updated+and+the+previous+index+files+will+be+used.+GPG+error%3A+http%3A%2F%2Frepository.spotify.com+stable+InRelease%3A+The+following+signatures+couldn%27t+be+verified+because+the+public+key+is+not+available&ei=nDErYf31Kt2Nr7wPgtyTmAU&oq=n+error+occurred+during+the+signature+verification.+The+repository+is+not+updated+and+the+previous+index+files+will+be+used.+GPG+error%3A+http%3A%2F%2Frepository.spotify.com+stable+InRelease%3A+The+following+signatures+couldn%27t+be+verified+because+the+public+key+is+not+available&gs_lcp=Cgdnd3Mtd2l6EAMyBwgAELADEB4yCQgAELADEAgQHjIJCAAQsAMQCBAeMgkIABCwAxAIEB4yCQgAELADEAgQHjIJCAAQsAMQCBAeMgkIABCwAxAIEB4yCQgAELADEAgQHjIJCAAQsAMQCBAeMgkIABCwAxAIEB5KBAhBGAFQ8e4HWPHuB2Dg8wdoA3AAeACAAQCIAQCSAQCYAQCgAQKgAQHIAQrAAQE&sclient=gws-wiz&ved=0ahUKEwj9s5Wu1dXyAhXdxosBHQLuBFMQ4dUDCA4&uact=5"
+            }, {
+               "date_added": "13274695793000000",
+               "date_last_used": "0",
+               "guid": "8504abeb-bdca-411d-82a4-32746bc39248",
+               "id": "308",
+               "name": "apt - \"GPG error: Release: The following signatures were invalid: BADSIG\" - Ask Ubuntu",
+               "type": "url",
+               "url": "https://askubuntu.com/questions/131601/gpg-error-release-the-following-signatures-were-invalid-badsig"
+            }, {
+               "date_added": "13274695793000000",
+               "date_last_used": "0",
+               "guid": "9d7d8865-a212-4fda-9437-ce3465e6c978",
+               "id": "309",
+               "name": "Solved: An error occurred during the signature verificatio... - The Spotify Community",
+               "type": "url",
+               "url": "https://community.spotify.com/t5/Desktop-Linux/An-error-occurred-during-the-signature-verification/td-p/5047645"
+            }, {
+               "date_added": "13274695793000000",
+               "date_last_used": "0",
+               "guid": "42c085ff-70fb-4c33-b003-a558fc1c8319",
+               "id": "310",
+               "name": "/home/lpy/WhiteSur-gtk-theme/lib-install.sh: line 447: glib-compile-resources: command not found - Google Search",
+               "type": "url",
+               "url": "https://www.google.com/search?q=%2Fhome%2Flpy%2FWhiteSur-gtk-theme%2Flib-install.sh%3A+line+447%3A+glib-compile-resources%3A+command+not+found&hl=en&source=hp&ei=GDUrYcjeF4SFr7wPueO64AY&iflsig=ALs-wAMAAAAAYStDKOG0rSlqii8JpKg0Kmmm9mZV5S7k&oq=%2Fhome%2Flpy%2FWhiteSur-gtk-theme%2Flib-install.sh%3A+line+447%3A+glib-compile-resources%3A+command+not+found&gs_lcp=Cgdnd3Mtd2l6EANQhwhYhwhgzBBoAHAAeACAAUuIAUuSAQExmAEAoAECoAEB&sclient=gws-wiz&ved=0ahUKEwjIyq3X2NXyAhWEwosBHbmxDmwQ4dUDCAc&uact=5"
+            }, {
+               "date_added": "13274695793000000",
+               "date_last_used": "0",
+               "guid": "726dad2b-169f-4e68-ab76-64c8f14af5f0",
+               "id": "311",
+               "name": "需要安装libglib2.0-dev才能运行install.sh中的glib-compile-resources指令 - Mojave-gtk-theme",
+               "type": "url",
+               "url": "https://gitmemory.com/issue/vinceliuice/Mojave-gtk-theme/120/600990127"
+            }, {
+               "date_added": "13274695793000000",
+               "date_last_used": "0",
+               "guid": "c22f75eb-4440-4b78-a959-2f1fc2bae815",
+               "id": "312",
+               "name": "libglib2.0-dev install ubuntu - Google 搜尋",
+               "type": "url",
+               "url": "https://www.google.com/search?q=libglib2.0-dev+install+ubuntu&ei=YjUrYZyzKvqTr7wP45SO2AY&oq=libglib2.0-dev+install+ubuntu&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEOggIABCABBCwAzoJCAAQsAMQBxAeOgsIABCwAxAHEAoQHjoECAAQHjoGCAAQCBAeOgUIIRCgAUoECEEYAVDkJliQQWCHQmgDcAB4AIABcogB9QaSAQQxNS4xmAEAoAEByAEKwAEB&sclient=gws-wiz&ved=0ahUKEwic7OT62NXyAhX6yYsBHWOKA2sQ4dUDCA4&uact=5"
+            }, {
+               "date_added": "13274695793000000",
+               "date_last_used": "0",
+               "guid": "f023eb41-239e-47d6-b07b-8cea07663c2d",
+               "id": "313",
+               "name": "How to install libglib2.0-dev ubuntu package on Ubuntu 20.04/Ubuntu 18.04/Ubuntu 19.04/Ubuntu 16.04",
+               "type": "url",
+               "url": "https://zoomadmin.com/HowToInstall/UbuntuPackage/libglib2.0-dev"
+            }, {
+               "date_added": "13274695793000000",
+               "date_last_used": "0",
+               "guid": "65b2e9dd-c1df-4d55-b8c8-1f587f7d9ddc",
+               "id": "314",
+               "name": "Pop OS! GTK Theme in Fedora 34 - Discussions in English / on installing or upgrading Fedora - Ask Fedora",
+               "type": "url",
+               "url": "https://ask.fedoraproject.org/t/pop-os-gtk-theme-in-fedora-34/13733/2"
+            }, {
+               "date_added": "13274725704000000",
+               "date_last_used": "0",
+               "guid": "b888ce50-6bc8-4c7b-bf6c-964737688c46",
+               "id": "315",
+               "name": "Linux常用Terminal命令與快捷鍵參考 | 簡睿隨筆 | 學習過程的紀錄與備忘",
+               "type": "url",
+               "url": "http://jdev.tw/blog/3599/linux-terminal-commands-and-shortcuts"
+            } ],
+            "date_added": "13321958582676288",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "ba8c08a3-75da-49d0-8034-9ac6268a3c1f",
+            "id": "294",
+            "name": "New",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13274813624000000",
+               "date_last_used": "0",
+               "guid": "82bd9d7d-7973-4451-9954-5d9d4ce43d9d",
+               "id": "317",
+               "name": "How to Upgrade Ubuntu 18.04 LTS to Ubuntu 20.04 LTS - nixCraft",
+               "type": "url",
+               "url": "https://www.cyberciti.biz/faq/upgrade-ubuntu-18-04-to-20-04-lts-using-command-line/"
+            }, {
+               "date_added": "13274813624000000",
+               "date_last_used": "0",
+               "guid": "cb4085f7-cb4f-4bc7-be45-a9a35fe54c54",
+               "id": "318",
+               "name": "linux upgrade 20.04 dpkg error - Google 搜尋",
+               "type": "url",
+               "url": "https://www.google.com/search?q=linux+upgrade+20.04+dpkg+error&ei=Xf8sYYvuJZL70gSD-5PACQ&oq=linux+upgrade+20.04+dpkg+error&gs_lcp=Cgdnd3Mtd2l6EAM6BQghEKABOgUIABDNAjoHCCEQChCgAUoECEEYAFClSli0XmCMX2gAcAB4AIABVogBxwSSAQIxMJgBAKABAcABAQ&sclient=gws-wiz&ved=0ahUKEwjLkMncjdnyAhWSvZQKHYP9BJgQ4dUDCA4&uact=5"
+            }, {
+               "date_added": "13274813624000000",
+               "date_last_used": "0",
+               "guid": "fdcd1749-4f58-44e8-86ac-bc3b544a90ad",
+               "id": "319",
+               "name": "Ubuntu 20.04 apt autoremove error: dpkg: error processing package linux-image-5.4.0-56-generic (--remove): - Ask Ubuntu",
+               "type": "url",
+               "url": "https://askubuntu.com/questions/1323812/ubuntu-20-04-apt-autoremove-error-dpkg-error-processing-package-linux-image-5"
+            }, {
+               "date_added": "13274813624000000",
+               "date_last_used": "0",
+               "guid": "33ecf44f-e495-405f-823e-1d6df5b8b4b3",
+               "id": "320",
+               "name": "[Linux] Ubuntu 20.04 upgrade 時遇到的問題",
+               "type": "url",
+               "url": "https://qazwsxedccsqzse.blogspot.com/2020/07/linux-ubuntu-2004-upgrade.html"
+            }, {
+               "date_added": "13274813624000000",
+               "date_last_used": "0",
+               "guid": "8ac5c52f-8880-4683-8ff9-42c62ae9bfa2",
+               "id": "321",
+               "name": "ubuntu - Linux-image: problems with any updates - Stack Overflow",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/50202260/linux-image-problems-with-any-updates"
+            }, {
+               "date_added": "13274813624000000",
+               "date_last_used": "0",
+               "guid": "404b5e87-ce89-496a-ae45-eb9b19a3ad49",
+               "id": "322",
+               "name": "內核 - 清理 /boot 分區的最安全方法是什麼？ - 詢問 Ubuntu",
+               "type": "url",
+               "url": "https://askubuntu.com/questions/345588/what-is-the-safest-way-to-clean-up-boot-partition"
+            }, {
+               "date_added": "13274813624000000",
+               "date_last_used": "0",
+               "guid": "c2438ed4-618e-44ef-84d6-24021e1edaf9",
+               "id": "323",
+               "name": "Safest way to clean up boot partition - Ubuntu 14.04LTS-x64, Ubuntu 16.04LTS-x64 · GitHub",
+               "type": "url",
+               "url": "https://gist.github.com/ipbastola/2760cfc28be62a5ee10036851c654600"
+            }, {
+               "date_added": "13274813624000000",
+               "date_last_used": "0",
+               "guid": "184275e0-f6d7-4c25-9f7b-2823bad083db",
+               "id": "324",
+               "name": "Errors were encountered while processing: libsfml-dev:amd64 debconf c - Google 搜尋",
+               "type": "url",
+               "url": "https://www.google.com/search?q=Errors+were+encountered+while+processing%3A+libsfml-dev%3Aamd64+debconf+c&ei=9wAtYamBM4_W0ATGpLaQDw&oq=Errors+were+encountered+while+processing%3A+libsfml-dev%3Aamd64+debconf+c&gs_lcp=Cgdnd3Mtd2l6EANKBAhBGABQ0ENY0ENgnEVoAHAAeACAASeIASeSAQExmAEAoAEBwAEB&sclient=gws-wiz&ved=0ahUKEwjp2Jagj9nyAhUPK5QKHUaSDfIQ4dUDCA4&uact=5"
+            }, {
+               "date_added": "13274813624000000",
+               "date_last_used": "0",
+               "guid": "463ffd2a-6f99-446c-9f72-99de3ae21ee9",
+               "id": "325",
+               "name": "apt - Can't install libsfml-dev on 16.10; unmet dependencies - Ask Ubuntu",
+               "type": "url",
+               "url": "https://askubuntu.com/questions/888045/cant-install-libsfml-dev-on-16-10-unmet-dependencies"
+            }, {
+               "date_added": "13274813624000000",
+               "date_last_used": "0",
+               "guid": "b025432a-fa2a-498c-aa04-ef55c1e2ddcb",
+               "id": "326",
+               "name": "[已解決] 破包 - ffmpeg？ 無法安裝依賴？ - Linux Mint 論壇",
+               "type": "url",
+               "url": "https://forums.linuxmint.com/viewtopic.php?t=245111"
+            }, {
+               "date_added": "13274813624000000",
+               "date_last_used": "0",
+               "guid": "8675cfd7-a5ed-4985-ac04-29aa4aa8a38d",
+               "id": "327",
+               "name": "sudo apt-get -f install turns out dpkg error - Google 搜尋",
+               "type": "url",
+               "url": "https://www.google.com/search?q=sudo+apt-get+-f+install+turns+out+dpkg+error&oq=sudo+apt-get+-f+install+turns+out+dpkg+error&aqs=chrome..69i57.13569j0j1&sourceid=chrome&ie=UTF-8"
+            }, {
+               "date_added": "13274813624000000",
+               "date_last_used": "0",
+               "guid": "7037b05f-b4f3-4efc-a4c4-82197ef611a0",
+               "id": "328",
+               "name": "debconf: DbDriver \"config\": /var/cache/debconf/config.dat is locked by another process: Resource temporarily unavailable - Google 搜尋",
+               "type": "url",
+               "url": "https://www.google.com/search?q=debconf%3A+DbDriver+%22config%22%3A+%2Fvar%2Fcache%2Fdebconf%2Fconfig.dat+is+locked+by+another+process%3A+Resource+temporarily+unavailable&oq=debconf%3A+DbDriver+%22config%22%3A+%2Fvar%2Fcache%2Fdebconf%2Fconfig.dat+is+locked+by+another+process%3A+Resource+temporarily+unavailable&aqs=chrome..69i57j69i58.681j0j4&sourceid=chrome&ie=UTF-8"
+            }, {
+               "date_added": "13274813624000000",
+               "date_last_used": "0",
+               "guid": "bae252fb-6a14-4743-ab81-1afe6b05e3d1",
+               "id": "329",
+               "name": "apt - \"debconf: DbDriver \"config\": config.dat is locked by another process: Resource temporarily unavailable\" while installing packages - Ask Ubuntu",
+               "type": "url",
+               "url": "https://askubuntu.com/questions/136881/debconf-dbdriver-config-config-dat-is-locked-by-another-process-resource-t"
+            }, {
+               "date_added": "13274850056000000",
+               "date_last_used": "0",
+               "guid": "1f3bbaf5-b84b-48fb-ade3-6b1119e48f25",
+               "id": "330",
+               "name": "How to Solve “Sub-process /usr/bin/dpkg returned an error code (1)” In Ubuntu",
+               "type": "url",
+               "url": "https://www.tecmint.com/sub-process-usr-bin-dpkg-returned-an-error-in-ubuntu/"
+            }, {
+               "date_added": "13274981380000000",
+               "date_last_used": "0",
+               "guid": "9dc88e1c-21d3-4bf0-9606-1a921504dddb",
+               "id": "331",
+               "name": "Error loading extension on Ubuntu 20.04 beta · Issue #1158 · micheleg/dash-to-dock · GitHub",
+               "type": "url",
+               "url": "https://github.com/micheleg/dash-to-dock/issues/1158"
+            }, {
+               "date_added": "13275409227000000",
+               "date_last_used": "0",
+               "guid": "02ecbd3c-a579-4b5f-be1a-0a5055e284cc",
+               "id": "332",
+               "name": "[已解決]關於ibus 新酷音 有時無法打中文 [論壇 - 新手村] | Ubuntu 正體中文站",
+               "type": "url",
+               "url": "https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=293072"
+            }, {
+               "date_added": "13275486618000000",
+               "date_last_used": "0",
+               "guid": "82cd1706-2365-4224-8630-549c379ca97b",
+               "id": "333",
+               "name": "scim ibus 打不出中文 [論壇 - Ubuntu 哈啦] | Ubuntu 正體中文站",
+               "type": "url",
+               "url": "http://www.ubuntu-tw.org/modules/newbb/viewtopic.php?topic_id=44526&viewmode=compact&order=DESC&type=&mode=0&start=10"
+            }, {
+               "date_added": "13279399196000000",
+               "date_last_used": "0",
+               "guid": "981a7f67-f2c6-405e-b082-fa7aec8fb43a",
+               "id": "334",
+               "name": "filesystem - How to fix \"sudo: unable to open ... Read-only file system\"? - Ask Ubuntu",
+               "type": "url",
+               "url": "https://askubuntu.com/questions/197459/how-to-fix-sudo-unable-to-open-read-only-file-system"
+            } ],
+            "date_added": "13321958582678661",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "8a75a4af-c50c-48f2-b462-541179cd5b86",
+            "id": "316",
+            "name": "New2",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13278622973000000",
+               "date_last_used": "0",
+               "guid": "cc96ecb8-ef77-49b2-afdf-e80fea9643c7",
+               "id": "336",
+               "name": "Free PowerPoint Templates Design",
+               "type": "url",
+               "url": "https://www.free-powerpoint-templates-design.com/"
+            }, {
+               "date_added": "13278622980000000",
+               "date_last_used": "0",
+               "guid": "1d5d4937-a9d1-40e1-ad80-6cd7a410537c",
+               "id": "337",
+               "name": "Freepiker | Free Vectors, Powerpoint, Print, Logos and PSD downloads",
+               "type": "url",
+               "url": "https://www.freepiker.com/"
+            }, {
+               "date_added": "13278622984000000",
+               "date_last_used": "0",
+               "guid": "2ace2973-e1f4-4168-9aed-737fe7b64ef1",
+               "id": "338",
+               "name": "SlidesCarnival: Best Free PPT Templates and Google Slides Themes",
+               "type": "url",
+               "url": "https://www.slidescarnival.com/"
+            }, {
+               "date_added": "13278622987000000",
+               "date_last_used": "0",
+               "guid": "bffd0116-256f-4b8a-a470-50d50ad54cf0",
+               "id": "339",
+               "name": "Sketchnotes Lesson Google Slides & PowerPoint Template",
+               "type": "url",
+               "url": "https://slidesgo.com/theme/sketchnotes-lesson"
+            }, {
+               "date_added": "13278622990000000",
+               "date_last_used": "0",
+               "guid": "b0a3cdca-8b90-4f93-a744-95fe093b4a1f",
+               "id": "340",
+               "name": "Free Slides > Free PPT Templates - Slide Members",
+               "type": "url",
+               "url": "https://www.slidemembers.com/en_US/category/Free-Slides/Free-PPT-Templates/1/"
+            }, {
+               "date_added": "13278623008000000",
+               "date_last_used": "0",
+               "guid": "436bc6d3-6e8b-406a-a9b8-edacd800212e",
+               "id": "341",
+               "name": "PPT模板免费下载_精美免费PPT模板下载 -【优品PPT】",
+               "type": "url",
+               "url": "https://www.ypppt.com/"
+            } ],
+            "date_added": "13321958582680939",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "dc1da97c-9b36-439b-8a0f-9f09ec2961a7",
+            "id": "335",
+            "name": "slides",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13284370489000000",
+               "date_last_used": "0",
+               "guid": "58fe731f-2f4f-4fe9-9c67-a99b34ed751e",
+               "id": "343",
+               "name": "高中物理線上學習網 - ch.3平面運動",
+               "type": "url",
+               "url": "https://sites.google.com/site/phyelearning/phy1/planar_motion"
+            }, {
+               "date_added": "13284370489000000",
+               "date_last_used": "0",
+               "guid": "1cbc76e7-8571-4a3b-8db7-e362c28845c1",
+               "id": "344",
+               "name": "斜向拋射 算仰角 - Google 搜尋",
+               "type": "url",
+               "url": "https://www.google.com/search?q=%E6%96%9C%E5%90%91%E6%8B%8B%E5%B0%84+%E7%AE%97%E4%BB%B0%E8%A7%92&ei=oI6-YZX4BfqEr7wPzuC7MA&start=10&sa=N&ved=2ahUKEwiVyKne3u70AhV6wosBHU7wDgYQ8NMDegQIARBL&biw=1920&bih=947&dpr=1"
+            }, {
+               "date_added": "13284370489000000",
+               "date_last_used": "0",
+               "guid": "53adf31b-cfe6-4f43-bed1-cefe25ec8afa",
+               "id": "345",
+               "name": "科學的家庭教師",
+               "type": "url",
+               "url": "https://www.phyworld.idv.tw/"
+            }, {
+               "date_added": "13284370489000000",
+               "date_last_used": "0",
+               "guid": "42143f1b-be44-461b-ad73-2d19a97fe419",
+               "id": "346",
+               "name": "2-2_POINT_104.pdf",
+               "type": "url",
+               "url": "https://www.phyworld.idv.tw/BA_PHY_2B/CH2/2-2_POINT_104.pdf"
+            }, {
+               "date_added": "13284370489000000",
+               "date_last_used": "0",
+               "guid": "ff096f2e-505b-4cc6-939f-0d894644b7e6",
+               "id": "347",
+               "name": "2-3_POINT_104.pdf",
+               "type": "url",
+               "url": "https://www.phyworld.idv.tw/BA_PHY_2B/CH2/2-3_POINT_104.pdf"
+            }, {
+               "date_added": "13284370489000000",
+               "date_last_used": "0",
+               "guid": "e3a664a6-c667-42ae-8499-52940de90dbc",
+               "id": "348",
+               "name": "2-3_EXE_01.pdf",
+               "type": "url",
+               "url": "https://www.phyworld.idv.tw/BA_PHY_2B/CH2/2-3_EXE_01.pdf"
+            }, {
+               "date_added": "13284370489000000",
+               "date_last_used": "0",
+               "guid": "3256f94b-0765-42c7-a740-937e6f5439e1",
+               "id": "349",
+               "name": "牛頓運動定律 | PDF",
+               "type": "url",
+               "url": "https://www.scribd.com/document/368975031/%E7%89%9B%E9%A0%93%E9%81%8B%E5%8B%95%E5%AE%9A%E5%BE%8B"
+            }, {
+               "date_added": "13295931992000000",
+               "date_last_used": "0",
+               "guid": "f0c9b9e8-b5dc-4bae-a343-599480eb8177",
+               "id": "350",
+               "name": "功與能量【觀念】動能的定義 （選修物理Ⅱ） - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=OGdKQXhqYrA&list=PLTQ2T0cDHYPc92EKjsKklt_deeC5Z0Vyb&index=13"
+            } ],
+            "date_added": "13321958582682103",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "cf5bb1c1-cf31-45c4-84c9-2ae9f398a298",
+            "id": "342",
+            "name": "physics",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13292858029000000",
+               "date_last_used": "0",
+               "guid": "ec7eb55f-07af-4a95-a44b-5e2c340bd6e7",
+               "id": "352",
+               "name": "GitHub - grtcdr/startpages: A collection of startpages for your favorite browser.",
+               "type": "url",
+               "url": "https://github.com/grtcdr/startpages"
+            }, {
+               "date_added": "13292858029000000",
+               "date_last_used": "0",
+               "guid": "7f17ebd8-71b6-4c0b-81c5-f54902b607c2",
+               "id": "353",
+               "name": "setting up C++ LSP (clangd) in neovim - native lsp - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=BCuyEdDQ5iA"
+            }, {
+               "date_added": "13292858029000000",
+               "date_last_used": "0",
+               "guid": "90951185-9eb7-43bb-882e-4cfb0dc0d4ce",
+               "id": "354",
+               "name": "dotfiles/lsp.lua at master · rusty-electron/dotfiles · GitHub",
+               "type": "url",
+               "url": "https://github.com/rusty-electron/dotfiles/blob/master/.config/nvim/lsp.lua"
+            }, {
+               "date_added": "13292858029000000",
+               "date_last_used": "0",
+               "guid": "81f667fa-3b14-44c9-9b81-47a9db0e38e9",
+               "id": "355",
+               "name": "brave right click to translate - Google 搜尋",
+               "type": "url",
+               "url": "https://www.google.com/search?q=brave+right+click+to+translate&oq=brave+right+click+to+translate&aqs=chrome..69i57.4932j0j4&sourceid=chrome&ie=UTF-8"
+            }, {
+               "date_added": "13292858029000000",
+               "date_last_used": "0",
+               "guid": "1a328eb7-4476-479f-bf31-9f97e7eecd64",
+               "id": "356",
+               "name": "Google translate on right click - Brave Community",
+               "type": "url",
+               "url": "https://community.brave.com/t/google-translate-on-right-click/275706"
+            }, {
+               "date_added": "13292858029000000",
+               "date_last_used": "0",
+               "guid": "5098a833-bee8-4404-85b4-71eea1e4fd25",
+               "id": "357",
+               "name": "GitHub - jose-elias-alvarez/null-ls.nvim: Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",
+               "type": "url",
+               "url": "https://github.com/jose-elias-alvarez/null-ls.nvim"
+            }, {
+               "date_added": "13292858029000000",
+               "date_last_used": "0",
+               "guid": "0269a788-6b72-4945-bb6e-8031d5431596",
+               "id": "358",
+               "name": "lsp format just one line - Google 搜尋",
+               "type": "url",
+               "url": "https://www.google.com/search?q=lsp+format+just+one+line&ei=fVdAYrvyOt3c2roPx8utyAs&ved=0ahUKEwj7pJe4pOb2AhVdrlYBHcdlC7kQ4dUDCA4&uact=5&oq=lsp+format+just+one+line&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsANKBAhBGABKBAhGGABQgBpYhR1gkh9oAnABeACAAU-IAcoCkgEBNZgBAKABAcgBCsABAQ&sclient=gws-wiz"
+            } ],
+            "date_added": "13321958582683777",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "dec3a5c5-3739-45c8-9105-3e703bbd0cae",
+            "id": "351",
+            "name": "New folder",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13292227038000000",
+               "date_last_used": "0",
+               "guid": "c3a76384-9ca2-47d1-b330-68f95e5b8f51",
+               "id": "360",
+               "name": "rubiks-cube",
+               "type": "url",
+               "url": "https://github.com/benbotto/rubiks-cube-cracker"
+            }, {
+               "date_added": "13292267454000000",
+               "date_last_used": "0",
+               "guid": "dbe8a23a-1e0e-4e93-8d86-e85634fa6197",
+               "id": "361",
+               "name": "C++ Programming Course - Beginner to Advanced - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=8jLOx1hD3_o"
+            }, {
+               "date_added": "13293205433000000",
+               "date_last_used": "0",
+               "guid": "b037f0c8-c7b8-4b31-854b-08f72d348ec5",
+               "id": "362",
+               "name": "Coding Challenge #142.1: Rubik's Cube Part 1 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=9PGfL4t-uqE"
+            }, {
+               "date_added": "13294757419000000",
+               "date_last_used": "0",
+               "guid": "0da17ecb-4a26-4d2f-9500-1fd7e737f160",
+               "id": "363",
+               "name": "GitHub - OopsOverflow/MonCraft: Sandbox game developed using C++ 14 & OpenGL 3.3 🕹",
+               "type": "url",
+               "url": "https://github.com/OopsOverflow/MonCraft"
+            }, {
+               "date_added": "13295286847000000",
+               "date_last_used": "0",
+               "guid": "cb05d260-604d-44fc-8733-e7597c8b61ee",
+               "id": "364",
+               "name": "Minecraft clone in Python tutorial EP1: Creating the window - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=84RJ0kKrsao&list=PL6_bLxRDFzoKjaa3qCGkwR5L_ouSreaVP&index=4"
+            }, {
+               "date_added": "13295288151000000",
+               "date_last_used": "0",
+               "guid": "f63a8ee7-eb24-4f25-a80d-cb6cf0e30b1f",
+               "id": "365",
+               "name": "GitHub - obiwac/python-minecraft-clone: Source code for each episode of my Minecraft clone in Python YouTube tutorial series.",
+               "type": "url",
+               "url": "https://github.com/obiwac/python-minecraft-clone"
+            }, {
+               "date_added": "13295899370000000",
+               "date_last_used": "0",
+               "guid": "47f16ed5-102a-4f92-a89c-f48734118f50",
+               "id": "366",
+               "name": "I cant import any python modules, and cant install any modules with pip either - Stack Overflow",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/67014506/i-cant-import-any-python-modules-and-cant-install-any-modules-with-pip-either"
+            }, {
+               "date_added": "13296570306000000",
+               "date_last_used": "0",
+               "guid": "5b9a8d05-cec0-49c9-9d8e-71376deb4a70",
+               "id": "367",
+               "name": "Two Steps From Hell - 25 Tracks Best of All Time | Most Powerful Epic Music Mix [Part 1] - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=9O4_awEHh1g"
+            }, {
+               "date_added": "13296740028000000",
+               "date_last_used": "0",
+               "guid": "ba83339a-d0af-44a5-aa5e-aaee4d807715",
+               "id": "368",
+               "name": "Warriyo - Mortals (feat. Laura Brehm) [NCS Release] - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=yJg-Y5byMMw"
+            }, {
+               "date_added": "13297012826000000",
+               "date_last_used": "0",
+               "guid": "0d4906b2-c59b-44cb-888e-1072b20e72e8",
+               "id": "369",
+               "name": "Build a Markdown Documentation Site with Docusaurus (Step-by-Step) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=2R53Y7eP45k"
+            }, {
+               "date_added": "13297068957000000",
+               "date_last_used": "0",
+               "guid": "4c35d5a6-db7c-4699-8307-2cfd4286162f",
+               "id": "370",
+               "name": "Coding Minecraft With THREE.js! | Series Intro - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=1Dj-XL4XTxE&list=PLEtXCX1lakbhq_01JKJILx90wLfdwrJig&index=1"
+            }, {
+               "children": [ {
+                  "date_added": "13297079919000000",
+                  "date_last_used": "0",
+                  "guid": "fe997e73-1378-4377-ac26-3e7ec66c0c72",
+                  "id": "372",
+                  "name": "GitHub - joeiddon/perlin: A JavaScript library for Perlin Noise generation",
+                  "type": "url",
+                  "url": "https://github.com/joeiddon/perlin"
+               }, {
+                  "date_added": "13297079919000000",
+                  "date_last_used": "0",
+                  "guid": "2a991c9f-890e-4d19-946b-ee651d624b5e",
+                  "id": "373",
+                  "name": "GitHub - HritikRC/Minecraft at 88f74683ef89f1a9eb6addcac92138991ac21f15",
+                  "type": "url",
+                  "url": "https://github.com/HritikRC/Minecraft/tree/88f74683ef89f1a9eb6addcac92138991ac21f15"
+               }, {
+                  "date_added": "13297079919000000",
+                  "date_last_used": "0",
+                  "guid": "6f2b9f8e-f190-4e57-844a-87c4a48aac67",
+                  "id": "374",
+                  "name": "用 Three.js 來當個創世神 (03)：Hello Three.js! - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+                  "type": "url",
+                  "url": "https://ithelp.ithome.com.tw/articles/10199702"
+               }, {
+                  "date_added": "13297079920000000",
+                  "date_last_used": "0",
+                  "guid": "9fe808fa-6457-477a-be79-1645f8487ed7",
+                  "id": "375",
+                  "name": "ironman-three.js/index.html at master · DezChuang/ironman-three.js · GitHub",
+                  "type": "url",
+                  "url": "https://github.com/DezChuang/ironman-three.js/blob/master/day03_helloThree/index.html"
+               } ],
+               "date_added": "13321958582686555",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "98024cda-3b1e-4666-95cd-caace2eb85d2",
+               "id": "371",
+               "name": "threejs",
+               "type": "folder"
+            }, {
+               "date_added": "13297107906000000",
+               "date_last_used": "0",
+               "guid": "8ad40dd3-71af-4c21-afab-69de74930797",
+               "id": "376",
+               "name": "18.04: color emoji not showing up at all in Chrome, only partially in Firefox - Ask Ubuntu",
+               "type": "url",
+               "url": "https://askubuntu.com/questions/1029661/18-04-color-emoji-not-showing-up-at-all-in-chrome-only-partially-in-firefox"
+            }, {
+               "date_added": "13297130218000000",
+               "date_last_used": "0",
+               "guid": "19f97dfb-f52a-4bea-b075-43a1dcbdc1fb",
+               "id": "377",
+               "name": "Index of /ADVANCEDlevel549cd22c8ecf6201487aa23c74786f0d6/all/",
+               "type": "url",
+               "url": "https://media.ivy.com.tw/ADVANCEDlevel549cd22c8ecf6201487aa23c74786f0d6/all/"
+            }, {
+               "date_added": "13297386491000000",
+               "date_last_used": "0",
+               "guid": "daa0c3e8-8f85-4789-92be-efa0a2d39132",
+               "id": "378",
+               "name": "Minecraft in Python 2016 300 lines... (Classic Clone) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=NyBkFkAWnEo&t=63s"
+            }, {
+               "date_added": "13297474559000000",
+               "date_last_used": "0",
+               "guid": "4550ffa3-a9a5-4782-a063-79d33f750a2e",
+               "id": "379",
+               "name": "GitHub - Loonride/cppcraft at cc5d8a4873a17b77f3707a2ae74c037c9680e835",
+               "type": "url",
+               "url": "https://github.com/Loonride/cppcraft/tree/cc5d8a4873a17b77f3707a2ae74c037c9680e835"
+            } ],
+            "date_added": "13321958582685548",
+            "date_last_used": "0",
+            "date_modified": "13322413043573970",
+            "guid": "b532239a-44c4-41e3-b313-cb7963fb71c4",
+            "id": "359",
+            "name": "rubik's",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13295197729000000",
+               "date_last_used": "0",
+               "guid": "19a94911-4d56-4e78-a1a2-7698d4e3d50b",
+               "id": "381",
+               "name": "ikatago-for-colab.ipynb - Colaboratory",
+               "type": "url",
+               "url": "https://colab.research.google.com/drive/1BT4GAlHC1p0gEtujp3EtAYgFSPIjLzxs?usp=sharing#scrollTo=nPaa2KJt8Kyn&uniqifier=1"
+            }, {
+               "date_added": "13295251419000000",
+               "date_last_used": "0",
+               "guid": "b5f87042-76f3-483b-9dab-06051d7adbb5",
+               "id": "382",
+               "name": "katago_lizzie",
+               "type": "url",
+               "url": "https://colab.research.google.com/drive/1ggXTrkq3g3FFZv0q1SFqTYDUi5ImxbmH#scrollTo=Wkf_J6GL3EJG"
+            } ],
+            "date_added": "13321958582686943",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "5fa73ce0-34e5-411f-aae7-3bcf227d11e1",
+            "id": "380",
+            "name": "katago",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13295763301000000",
+               "date_last_used": "0",
+               "guid": "d4e8805d-6dfa-41a5-a0d8-1be60ca1d236",
+               "id": "384",
+               "name": "Heroku + node.js error (Web process failed to bind to $PORT within 60 seconds of launch) - Stack Overflow",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/15693192/heroku-node-js-error-web-process-failed-to-bind-to-port-within-60-seconds-of"
+            } ],
+            "date_added": "13321958582687343",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "e4569c23-72d7-4312-829b-ad9c16b80f51",
+            "id": "383",
+            "name": "heroku",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13295867810000000",
+               "date_last_used": "0",
+               "guid": "b2718a40-a006-4b84-a5a4-acaa87b816f8",
+               "id": "386",
+               "name": "Are Volcanoes Dangerous When They’re Not Erupting? | Britannica",
+               "type": "url",
+               "url": "https://www.britannica.com/story/are-volcanoes-dangerous-when-theyre-not-erupting"
+            }, {
+               "date_added": "13295950195000000",
+               "date_last_used": "0",
+               "guid": "8f610459-dd44-42b3-9967-8b78b676b2ea",
+               "id": "387",
+               "name": "6 Signs It’s Already the Future | Britannica",
+               "type": "url",
+               "url": "https://www.britannica.com/list/6-signs-its-already-the-future"
+            } ],
+            "date_added": "13321958582687684",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "a1260796-cabe-4ece-809c-8cd038cbdc2a",
+            "id": "385",
+            "name": "infos",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13321962563576792",
+               "date_last_used": "0",
+               "guid": "fc96a2d5-0a78-40be-968d-f9d4c2b7cd6a",
+               "id": "390",
+               "name": "Arch Linux Installation Guide 2020 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=PQgyW10xD8s"
+            }, {
+               "date_added": "13321962563577133",
+               "date_last_used": "0",
+               "guid": "3b553a7e-0011-4f41-aeac-93fdf20680c8",
+               "id": "391",
+               "name": "無法 ping github.com archlinux - Google 搜尋",
+               "type": "url",
+               "url": "https://www.google.com/search?q=%E7%84%A1%E6%B3%95+ping+github.com+archlinux&ei=QW_8Y_DQL5TVhwOSuq_oDQ&ved=0ahUKEwiw9ZXFqbX9AhWU6mEKHRLdC90Q4dUDCA8&uact=5&oq=%E7%84%A1%E6%B3%95+ping+github.com+archlinux&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCAAQogQyBQgAEKIEMgcIABAeEKIEMgUIABCiBDIFCAAQogQ6CggAEEcQ1gQQsAM6BQghEKABOgkIIRCgARAKECo6BwghEKABEApKBAhBGABQzwhY4BVgkhdoAXABeACAAVmIAYIFkgECMTCYAQCgAQHIAQfAAQE&sclient=gws-wiz-serp"
+            }, {
+               "date_added": "13321962563577454",
+               "date_last_used": "0",
+               "guid": "2e63dec1-26e6-431b-8ab8-f64540b73a51",
+               "id": "392",
+               "name": "github 访问ping不通的解决办法 - 腾讯云开发者社区-腾讯云",
+               "type": "url",
+               "url": "https://cloud.tencent.com/developer/article/1680842"
+            }, {
+               "date_added": "13321962563577667",
+               "date_last_used": "0",
+               "guid": "50dd10a0-d244-4179-8958-01ce6754c8ed",
+               "id": "393",
+               "name": "解决linux环境下无法ping通github，clone项目_广州市民林先生的博客-CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/PPprogrammer/article/details/105817073"
+            }, {
+               "date_added": "13321962563577897",
+               "date_last_used": "0",
+               "guid": "32744098-620a-47ec-85e8-37c47d6bea1f",
+               "id": "394",
+               "name": "Github打不开解决方法 - 知乎",
+               "type": "url",
+               "url": "https://zhuanlan.zhihu.com/p/566713519"
+            }, {
+               "date_added": "13321962563578036",
+               "date_last_used": "0",
+               "guid": "d6b6f984-40b7-48c7-834e-d6ead93a52bf",
+               "id": "395",
+               "name": "解决ping github.com超时 - 掘金",
+               "type": "url",
+               "url": "https://juejin.cn/post/6844904194852257805"
+            }, {
+               "date_added": "13321962563578179",
+               "date_last_used": "0",
+               "guid": "7ffcdafd-ac01-428f-a39d-d4f4fab68cbe",
+               "id": "396",
+               "name": "github.com连接超时 ping不通_哎呦喂超超。的博客-CSDN博客_20.205.243.166",
+               "type": "url",
+               "url": "https://blog.csdn.net/harry_yaya/article/details/107484793"
+            }, {
+               "date_added": "13321962563578356",
+               "date_last_used": "0",
+               "guid": "16575be7-7ce6-4a75-a39e-c020556cf775",
+               "id": "397",
+               "name": "linux dns 污染 - Google 搜尋",
+               "type": "url",
+               "url": "https://www.google.com/search?q=linux+dns+%E6%B1%A1%E6%9F%93&ei=sWv8Y5RRhP_5BvywhWg&ved=0ahUKEwjU7faRprX9AhWEf94KHXxYAQ0Q4dUDCA8&uact=5&oq=linux+dns+%E6%B1%A1%E6%9F%93&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIHCAAQHhDxBDoOCC4QgAQQsQMQxwEQ0QM6CwgAEIAEELEDEIMBOggIABCABBCxAzoICAAQsQMQgwE6EQguEIAEELEDEIMBEMcBENEDOgsILhCABBCxAxCDAToECAAQQzoLCC4QgAQQsQMQ1AI6DQguELEDEMcBENEDEEM6BQgAEIAEOgUILhCABDoFCAAQogQ6CggAEPEEEB4QogQ6BQghEKABSgQIQRgAUABY8S9gujNoAXABeACAAWaIAYwHkgEEMTQuMZgBAKABAcABAQ&sclient=gws-wiz-serp"
+            }, {
+               "date_added": "13321962563578572",
+               "date_last_used": "0",
+               "guid": "60439e67-a024-47ce-8a4b-db60e1f22105",
+               "id": "398",
+               "name": "Linux 下 DNS 污染解决办法_linux禁用dnsmasq_m0_72431373的博客-CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/m0_72431373/article/details/126980948"
+            }, {
+               "date_added": "13321962563578752",
+               "date_last_used": "0",
+               "guid": "a5eff7b1-4268-48d2-89a4-6e6d23fd1a1a",
+               "id": "399",
+               "name": "/etc/NetworkManager/NetworkManager.conf - Google 搜尋",
+               "type": "url",
+               "url": "https://www.google.com/search?q=%2Fetc%2FNetworkManager%2FNetworkManager.conf&oq=%2Fetc%2FNetworkManager%2FNetworkManager.conf&aqs=chrome..69i58j69i57.847j0j4&sourceid=chrome&ie=UTF-8"
+            }, {
+               "date_added": "13321962563578934",
+               "date_last_used": "0",
+               "guid": "49bb3199-aa43-4185-b822-41c7e2ec453f",
+               "id": "400",
+               "name": "Linux – NetworkManager 設定檔 – Benjr.tw",
+               "type": "url",
+               "url": "https://benjr.tw/94990"
+            }, {
+               "date_added": "13321962563579064",
+               "date_last_used": "0",
+               "guid": "529273e9-26b1-4b5e-b335-a098aed3bd2d",
+               "id": "401",
+               "name": "[筆記] 設定ubuntu 18.04 的NetworkManager config 不要更改 /etc/resolv.conf | MC部落",
+               "type": "url",
+               "url": "https://hu.mc4.us/post/config-networkmanager-in-ubuntu-to-stop-modify-resolvconf/"
+            }, {
+               "date_added": "13321962563579252",
+               "date_last_used": "0",
+               "guid": "8af370c4-941b-40bd-a057-566361fe46c9",
+               "id": "402",
+               "name": "[機派X] Day 6 - Linux 沒網路，我要怎麼發鐵人賽的文章 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+               "type": "url",
+               "url": "https://ithelp.ithome.com.tw/articles/10267179"
+            }, {
+               "date_added": "13321962563579546",
+               "date_last_used": "0",
+               "guid": "7f4ee209-8044-4648-8a3a-bf2cbd2a9f02",
+               "id": "403",
+               "name": "nmtui - Google 搜尋",
+               "type": "url",
+               "url": "https://www.google.com/search?q=nmtui&sourceid=chrome&ie=UTF-8"
+            }, {
+               "date_added": "13321962563579685",
+               "date_last_used": "0",
+               "guid": "df149a96-c04d-464c-b9bc-a2b88468c0f5",
+               "id": "404",
+               "name": "nmtui：CentOS/RHEL 文字介面網路設定工具，管理 NetworkManager - G. T. Wang",
+               "type": "url",
+               "url": "https://blog.gtwang.org/linux/nmtui-centos-linux-network-manager-text-user-interface/"
+            }, {
+               "date_added": "13321962563579861",
+               "date_last_used": "0",
+               "guid": "9ee63eb6-bb92-48f6-96ef-d27f824c38f5",
+               "id": "405",
+               "name": "nmtui(1) — Arch manual pages",
+               "type": "url",
+               "url": "https://man.archlinux.org/man/nmtui.1"
+            }, {
+               "date_added": "13322024794941944",
+               "date_last_used": "0",
+               "guid": "ddba2753-2d7b-4721-8a58-8de5b74edbfd",
+               "id": "408",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "使用 Alacritty、Fish Shell、tmux 和 Vim 創建工作流",
+               "type": "url",
+               "url": "https://ruddra.com/alacritty-fish-tmux-vim/"
+            }, {
+               "date_added": "13322040237389748",
+               "date_last_used": "0",
+               "guid": "70354d85-56e8-45b1-ba76-53ec864bae5f",
+               "id": "410",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "My Arch Linux Hyprland Workflow || Hyprland Rice || Hyprland Customization || Wayland Compositor || - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=Y_6kHCsSPRk"
+            }, {
+               "date_added": "13322040242486537",
+               "date_last_used": "0",
+               "guid": "b26ef9c2-019e-4179-8a13-592e11196ae8",
+               "id": "411",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "GitHub - Roshanpaudel111/Arch-Hyprland: Arch linux hyprland setup",
+               "type": "url",
+               "url": "https://github.com/Roshanpaudel111/Arch-Hyprland"
+            }, {
+               "date_added": "13322050166964766",
+               "date_last_used": "0",
+               "guid": "5154786c-cecf-4619-8c5f-fe5f003b445c",
+               "id": "413",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Hyprland First Look -- Wayland compositor and desktop - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=sDmLCBI9L4E"
+            }, {
+               "date_added": "13322072491452825",
+               "date_last_used": "0",
+               "guid": "d6d9c40f-f15f-4dab-94c7-2e5458c02b7c",
+               "id": "415",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "hyprland-titus/hyprland.conf at main · ChrisTitusTech/hyprland-titus · GitHub",
+               "type": "url",
+               "url": "https://github.com/ChrisTitusTech/hyprland-titus/blob/main/dotconfig/hypr/hyprland.conf"
+            }, {
+               "date_added": "13322413043573970",
+               "date_last_used": "0",
+               "guid": "00d9efd0-b7d9-486b-be34-36c4bd2d487e",
+               "id": "419",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "ArchLinux下i3wm安装和简单配置美化 | Try's Notebook",
+               "type": "url",
+               "url": "https://mindview.top/pages/be527f/"
+            }, {
+               "date_added": "13322418278665268",
+               "date_last_used": "0",
+               "guid": "63c79262-d370-44d5-aa9e-894c8f52c23a",
+               "id": "421",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "2021 07 ArchLinux 安裝紀錄 - HackMD",
+               "type": "url",
+               "url": "https://hackmd.io/@Zeng/2021-07-ArchLinuxInstall#%E4%BD%BF%E7%94%A8%E8%80%85%E8%88%87%E6%A1%8C%E9%9D%A2%E7%92%B0%E5%A2%83"
+            } ],
+            "date_added": "13321962563575677",
+            "date_last_used": "0",
+            "date_modified": "13322418278665268",
+            "guid": "edba1177-21a7-464c-b099-6d37d10f713f",
+            "id": "389",
+            "name": "New folder",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13322422524885027",
+               "date_last_used": "0",
+               "guid": "42d44d86-02c2-4d8f-8215-af376eb94252",
+               "id": "424",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "How to Install Arch Linux [Step by Step Guide]",
+               "type": "url",
+               "url": "https://itsfoss.com/install-arch-linux/"
+            }, {
+               "date_added": "13322422528384005",
+               "date_last_used": "0",
+               "guid": "b6e98840-7d71-4b4c-844c-74eac755aecb",
+               "id": "425",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Arch linux 安裝 - HackMD",
+               "type": "url",
+               "url": "https://hackmd.io/@PIFOPlfSS3W_CehLxS3hBQ/r1xrYth9V"
+            }, {
+               "date_added": "13322422859833925",
+               "date_last_used": "0",
+               "guid": "8fbe1582-04e8-4a91-82c9-ddd5767959ef",
+               "id": "427",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "2021 07 ArchLinux 安裝紀錄 - HackMD",
+               "type": "url",
+               "url": "https://hackmd.io/@Zeng/2021-07-ArchLinuxInstall"
+            }, {
+               "date_added": "13322481676020592",
+               "date_last_used": "0",
+               "guid": "c8c6e124-9920-41e7-a691-8b8d92f3a4d5",
+               "id": "429",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "GitHub - marioortizmanero/polybar-pulseaudio-control: A feature-full Polybar module to control PulseAudio",
+               "type": "url",
+               "url": "https://github.com/marioortizmanero/polybar-pulseaudio-control"
+            }, {
+               "date_added": "13322488806563319",
+               "date_last_used": "0",
+               "guid": "8fcd8049-ff4b-40ad-a61a-1ffe988ec297",
+               "id": "431",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "GitHub - NoiSek/Aether: A sleek ArchLinux login manager for lightdm-webkit. ( lightdm-webkit-theme-aether )",
+               "type": "url",
+               "url": "https://github.com/NoiSek/Aether"
+            }, {
+               "date_added": "13322497471036814",
+               "date_last_used": "0",
+               "guid": "c4dceb4a-0a28-40ed-beb2-5131385de1aa",
+               "id": "433",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "在Arch Linux上安裝QEMU/KVM和Virt Manager虛擬機軟體 | Ivon的部落格",
+               "type": "url",
+               "url": "https://ivonblog.com/posts/archlinux-qemu-virt-manager/"
+            }, {
+               "date_added": "13322497939863412",
+               "date_last_used": "0",
+               "guid": "01948f1e-7fae-4c3c-81b7-6405690bc1a7",
+               "id": "434",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Manjaro/Arch Linux 如何安裝QEMU-KVM與Virt Manager虛擬機管理系統 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=bbljnDcnbnA"
+            }, {
+               "date_added": "13322498541506736",
+               "date_last_used": "0",
+               "guid": "5afc3372-41fc-412c-9324-41bf142af98b",
+               "id": "435",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "How to Change Linux Console Fonts on Arch Linux - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=nxUTnZVdS64"
+            } ],
+            "date_added": "13322422522681362",
+            "date_last_used": "0",
+            "date_modified": "13322498541506736",
+            "guid": "0e3c73fd-158d-4ce8-9ad5-2d1c843b9159",
+            "id": "423",
+            "name": "arch",
+            "type": "folder"
+         } ],
+         "date_added": "13321957165156656",
+         "date_last_used": "0",
+         "date_modified": "13322422524885027",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13321957165156658",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13321957165156660",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

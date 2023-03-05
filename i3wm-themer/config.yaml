@@ -1,0 +1,5 @@
+i3-config: /home/lpy/.config/i3/config
+polybar-config: /home/lpy/.config/polybar/config
+xresources: /home/lpy/.Xresources
+nitrogen-config: /home/lpy/.config/nitrogen/bg-saved.cfg
+wallpaper-path: /home/lpy/.config/nitrogen/
